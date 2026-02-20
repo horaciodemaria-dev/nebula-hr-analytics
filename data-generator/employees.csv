@@ -1,0 +1,1001 @@
+employee_id,employee_code,alias,department,role,seniority,salary_usd,hire_date,termination_date,city,country,performance_score,employment_type,is_active
+1,NW-HR-0001,Nebula-1,HR,HR Manager,Junior,2504,2019-12-19,,Lima,PE,3.3,full_time,True
+2,NW-DAT-0002,Neo,Data,Data Analyst,Senior,5624,2023-08-30,,Bogotá,CO,4.5,contractor,True
+3,NW-SAL-0003,Nebula-3,Sales,Account Executive,Mid,3837,2018-10-08,,Lima,PE,4.4,contractor,True
+4,NW-FIN-0004,Nebula-4,Finance,Financial Analyst,Lead,7782,2023-04-21,,Santiago,CL,3.3,full_time,True
+5,NW-SAL-0005,Nebula-5,Sales,Account Executive,Mid,3053,2017-11-12,,Buenos Aires,AR,3.2,contractor,True
+6,NW-FIN-0006,Apollo,Finance,Financial Analyst,Senior,5192,2024-05-15,,Montevideo,UY,3.2,full_time,True
+7,NW-HR-0007,Nebula-7,HR,HR Generalist,Lead,6684,2016-03-27,,Montevideo,UY,5.0,contractor,True
+8,NW-DAT-0008,Atlas,Data,Data Engineer,Mid,3964,2025-10-16,,Santiago,CL,4.0,contractor,True
+9,NW-FIN-0009,Nebula-9,Finance,Financial Analyst,Junior,2577,2015-03-31,,Bogotá,CO,3.8,full_time,True
+10,NW-DAT-0010,Vega,Data,Data Analyst,Lead,8184,2025-11-06,,Lima,PE,2.7,full_time,True
+11,NW-HR-0011,Nebula-11,HR,HR Generalist,Mid,2802,2022-03-12,2023-06-23,Santiago,CL,4.1,contractor,False
+12,NW-DAT-0012,Nebula-12,Data,Data Engineer,Junior,2144,2019-08-04,,Santiago,CL,3.1,full_time,True
+13,NW-ENG-0013,Hera,Engineering,Frontend Developer,Junior,2558,2018-12-11,,Montevideo,UY,3.6,full_time,True
+14,NW-DAT-0014,Athena,Data,Data Analyst,Mid,3449,2017-12-09,,Lima,PE,2.6,contractor,True
+15,NW-FIN-0015,Nebula-15,Finance,Financial Analyst,Junior,2343,2019-11-09,2023-12-01,Bogotá,CO,3.1,full_time,False
+16,NW-FIN-0016,Nebula-16,Finance,Financial Analyst,Lead,6642,2015-10-17,,Bogotá,CO,3.1,contractor,True
+17,NW-HR-0017,Neo,HR,HR Manager,Mid,4139,2016-09-14,2020-05-05,Montevideo,UY,2.7,full_time,False
+18,NW-FIN-0018,Nebula-18,Finance,Financial Analyst,Mid,3789,2015-05-28,,Montevideo,UY,5.0,full_time,True
+19,NW-ENG-0019,Nebula-19,Engineering,Backend Developer,Lead,8441,2014-11-17,,Buenos Aires,AR,4.1,full_time,True
+20,NW-ENG-0020,Nebula-20,Engineering,Frontend Developer,Senior,6187,2018-01-14,2024-03-02,Lima,PE,2.8,contractor,False
+21,NW-SAL-0021,Nebula-21,Sales,Account Executive,Lead,7672,2016-11-13,,Santiago,CL,4.8,full_time,True
+22,NW-SAL-0022,Trinity,Sales,Sales Manager,Junior,2561,2017-07-18,,Santiago,CL,3.7,contractor,True
+23,NW-DAT-0023,Loki,Data,Data Analyst,Mid,4187,2019-10-31,,Montevideo,UY,3.0,full_time,True
+24,NW-HR-0024,Nebula-24,HR,HR Generalist,Junior,1810,2014-08-31,,Buenos Aires,AR,3.5,full_time,True
+25,NW-DAT-0025,Nebula-25,Data,Data Engineer,Mid,3560,2018-09-23,,Bogotá,CO,3.0,contractor,True
+26,NW-ENG-0026,Athena,Engineering,Backend Developer,Senior,5712,2023-06-28,,Buenos Aires,AR,4.1,contractor,True
+27,NW-HR-0027,Atlas,HR,HR Manager,Lead,7492,2023-12-09,2028-09-04,Bogotá,CO,3.0,full_time,False
+28,NW-SAL-0028,Nebula-28,Sales,Sales Manager,Junior,2243,2015-08-27,,Lima,PE,4.1,full_time,True
+29,NW-SAL-0029,Nebula-29,Sales,Account Executive,Junior,2314,2016-04-09,,Bogotá,CO,3.4,full_time,True
+30,NW-HR-0030,Nebula-30,HR,HR Manager,Junior,1839,2024-02-20,,Bogotá,CO,3.8,contractor,True
+31,NW-HR-0031,Nebula-31,HR,HR Generalist,Senior,5683,2017-09-13,2023-05-23,Buenos Aires,AR,3.2,contractor,False
+32,NW-ENG-0032,Vega,Engineering,Frontend Developer,Senior,6049,2021-01-26,,Lima,PE,4.6,contractor,True
+33,NW-FIN-0033,Ryu,Finance,Financial Analyst,Lead,6502,2018-08-18,,Montevideo,UY,4.3,full_time,True
+34,NW-DAT-0034,Nebula-34,Data,Data Engineer,Senior,4743,2019-09-15,,Lima,PE,3.1,full_time,True
+35,NW-DAT-0035,Vega,Data,Data Analyst,Senior,4630,2023-10-31,,Bogotá,CO,2.5,full_time,True
+36,NW-DAT-0036,Goku,Data,Data Analyst,Senior,6406,2017-07-08,,Buenos Aires,AR,4.3,contractor,True
+37,NW-ENG-0037,Nebula-37,Engineering,DevOps Engineer,Junior,2526,2024-03-02,,Bogotá,CO,3.5,full_time,True
+38,NW-FIN-0038,Trinity,Finance,Financial Analyst,Mid,3828,2021-06-01,,Santiago,CL,3.8,full_time,True
+39,NW-HR-0039,Nebula-39,HR,HR Generalist,Junior,2530,2022-01-21,,Lima,PE,4.4,contractor,True
+40,NW-HR-0040,Nebula-40,HR,HR Generalist,Junior,1906,2016-07-24,,Santiago,CL,4.4,full_time,True
+41,NW-ENG-0041,Nebula-41,Engineering,Frontend Developer,Lead,6986,2023-02-28,,Lima,PE,3.2,contractor,True
+42,NW-FIN-0042,Nebula-42,Finance,Financial Analyst,Mid,4187,2021-05-24,,Lima,PE,4.4,contractor,True
+43,NW-HR-0043,Nebula-43,HR,HR Generalist,Mid,3060,2023-08-26,,Santiago,CL,3.7,contractor,True
+44,NW-SAL-0044,Nebula-44,Sales,Sales Manager,Mid,3008,2020-09-15,,Bogotá,CO,3.8,contractor,True
+45,NW-ENG-0045,Nebula-45,Engineering,Backend Developer,Mid,3569,2017-01-11,,Santiago,CL,4.3,contractor,True
+46,NW-HR-0046,Apollo,HR,HR Manager,Junior,1887,2015-04-09,,Montevideo,UY,3.7,contractor,True
+47,NW-DAT-0047,Neo,Data,Data Analyst,Mid,3062,2015-10-02,,Santiago,CL,3.8,contractor,True
+48,NW-FIN-0048,Nebula-48,Finance,Financial Analyst,Junior,2345,2018-04-23,,Montevideo,UY,3.4,full_time,True
+49,NW-FIN-0049,Nebula-49,Finance,Financial Analyst,Senior,5133,2014-05-14,,Montevideo,UY,4.7,full_time,True
+50,NW-FIN-0050,Nebula-50,Finance,Financial Analyst,Senior,6268,2025-01-16,,Buenos Aires,AR,3.3,contractor,True
+51,NW-FIN-0051,Nebula-51,Finance,Financial Analyst,Junior,2330,2021-04-08,,Santiago,CL,2.6,full_time,True
+52,NW-ENG-0052,Nebula-52,Engineering,Backend Developer,Mid,3678,2026-01-17,,Lima,PE,3.1,full_time,True
+53,NW-SAL-0053,Nebula-53,Sales,Sales Manager,Lead,8422,2024-12-05,,Santiago,CL,3.9,contractor,True
+54,NW-ENG-0054,Nebula-54,Engineering,DevOps Engineer,Mid,3979,2017-04-14,,Buenos Aires,AR,3.3,full_time,True
+55,NW-ENG-0055,Nebula-55,Engineering,Backend Developer,Junior,2558,2018-09-12,,Montevideo,UY,3.6,full_time,True
+56,NW-SAL-0056,Nebula-56,Sales,Account Executive,Junior,2297,2024-11-15,,Santiago,CL,4.9,contractor,True
+57,NW-ENG-0057,Apollo,Engineering,DevOps Engineer,Lead,6666,2014-05-05,,Bogotá,CO,2.6,contractor,True
+58,NW-SAL-0058,Nebula-58,Sales,Account Executive,Senior,6275,2019-09-02,,Bogotá,CO,4.1,contractor,True
+59,NW-HR-0059,Nebula-59,HR,HR Manager,Senior,4609,2016-05-28,,Montevideo,UY,4.0,full_time,True
+60,NW-HR-0060,Nebula-60,HR,HR Manager,Lead,6544,2021-12-05,,Lima,PE,3.2,contractor,True
+61,NW-FIN-0061,Nebula-61,Finance,Financial Analyst,Senior,5597,2018-10-19,,Lima,PE,4.8,full_time,True
+62,NW-HR-0062,Trinity,HR,HR Manager,Lead,8002,2018-11-27,,Lima,PE,3.1,contractor,True
+63,NW-SAL-0063,Nebula-63,Sales,Account Executive,Lead,6595,2015-01-29,,Santiago,CL,3.3,full_time,True
+64,NW-FIN-0064,Vega,Finance,Financial Analyst,Mid,3006,2014-11-18,,Lima,PE,2.6,contractor,True
+65,NW-SAL-0065,Athena,Sales,Account Executive,Junior,2273,2026-01-24,,Montevideo,UY,4.4,contractor,True
+66,NW-ENG-0066,Nebula-66,Engineering,DevOps Engineer,Mid,3407,2021-04-08,,Santiago,CL,4.5,full_time,True
+67,NW-DAT-0067,Nebula-67,Data,Data Analyst,Mid,3819,2021-08-07,2026-09-09,Buenos Aires,AR,4.3,contractor,False
+68,NW-DAT-0068,Goku,Data,Data Engineer,Lead,7914,2019-09-26,,Santiago,CL,3.7,contractor,True
+69,NW-SAL-0069,Nebula-69,Sales,Account Executive,Junior,1993,2016-09-13,,Buenos Aires,AR,3.6,full_time,True
+70,NW-SAL-0070,Nebula-70,Sales,Account Executive,Senior,5102,2022-04-20,,Montevideo,UY,2.8,full_time,True
+71,NW-SAL-0071,Nebula-71,Sales,Sales Manager,Senior,4749,2022-11-15,2023-11-13,Lima,PE,2.6,contractor,False
+72,NW-DAT-0072,Goku,Data,Data Engineer,Lead,7064,2022-04-04,,Bogotá,CO,4.2,contractor,True
+73,NW-SAL-0073,Nebula-73,Sales,Account Executive,Mid,3339,2021-08-10,,Bogotá,CO,4.7,full_time,True
+74,NW-FIN-0074,Trinity,Finance,Financial Analyst,Mid,2958,2021-07-07,,Lima,PE,4.9,full_time,True
+75,NW-DAT-0075,Nebula-75,Data,Data Analyst,Lead,7913,2022-03-02,,Bogotá,CO,4.2,contractor,True
+76,NW-SAL-0076,Nebula-76,Sales,Account Executive,Senior,5448,2016-06-08,,Santiago,CL,3.6,full_time,True
+77,NW-DAT-0077,Nebula-77,Data,Data Engineer,Lead,7661,2021-09-28,,Montevideo,UY,3.6,contractor,True
+78,NW-DAT-0078,Nebula-78,Data,Data Analyst,Junior,2436,2018-01-17,,Bogotá,CO,3.0,full_time,True
+79,NW-ENG-0079,Neo,Engineering,Backend Developer,Mid,3033,2017-01-17,,Santiago,CL,4.2,contractor,True
+80,NW-HR-0080,Nebula-80,HR,HR Manager,Junior,1916,2023-11-06,,Buenos Aires,AR,4.2,full_time,True
+81,NW-FIN-0081,Nebula-81,Finance,Financial Analyst,Senior,4697,2022-03-31,,Montevideo,UY,3.2,contractor,True
+82,NW-FIN-0082,Nebula-82,Finance,Financial Analyst,Junior,1914,2024-05-10,,Buenos Aires,AR,3.9,contractor,True
+83,NW-ENG-0083,Apollo,Engineering,DevOps Engineer,Lead,8078,2017-12-24,,Montevideo,UY,2.7,contractor,True
+84,NW-ENG-0084,Nebula-84,Engineering,DevOps Engineer,Mid,3183,2021-07-04,2023-10-19,Santiago,CL,3.5,full_time,False
+85,NW-DAT-0085,Nebula-85,Data,Data Analyst,Mid,3860,2017-10-12,,Buenos Aires,AR,4.0,contractor,True
+86,NW-ENG-0086,Nebula-86,Engineering,Frontend Developer,Lead,6728,2019-01-06,,Bogotá,CO,2.9,contractor,True
+87,NW-ENG-0087,Nebula-87,Engineering,Frontend Developer,Senior,4690,2019-02-22,,Santiago,CL,3.1,contractor,True
+88,NW-DAT-0088,Vega,Data,Data Analyst,Senior,5380,2016-06-09,,Santiago,CL,4.5,contractor,True
+89,NW-HR-0089,Loki,HR,HR Manager,Junior,2450,2018-03-12,2023-08-12,Santiago,CL,2.5,contractor,False
+90,NW-DAT-0090,Hera,Data,Data Engineer,Junior,2088,2018-06-17,2023-02-03,Santiago,CL,3.0,full_time,False
+91,NW-ENG-0091,Nebula-91,Engineering,DevOps Engineer,Senior,4963,2020-07-11,,Lima,PE,2.9,full_time,True
+92,NW-DAT-0092,Nebula-92,Data,Data Analyst,Senior,5571,2017-10-31,,Buenos Aires,AR,2.9,contractor,True
+93,NW-DAT-0093,Nebula-93,Data,Data Engineer,Lead,6710,2015-12-26,,Montevideo,UY,4.5,full_time,True
+94,NW-HR-0094,Nebula-94,HR,HR Manager,Junior,2464,2021-09-27,,Buenos Aires,AR,3.8,contractor,True
+95,NW-HR-0095,Atlas,HR,HR Manager,Mid,3957,2019-08-23,,Buenos Aires,AR,2.9,full_time,True
+96,NW-SAL-0096,Atlas,Sales,Sales Manager,Lead,8375,2016-09-05,,Lima,PE,5.0,contractor,True
+97,NW-ENG-0097,Hera,Engineering,DevOps Engineer,Junior,2218,2020-06-26,,Lima,PE,4.8,contractor,True
+98,NW-DAT-0098,Athena,Data,Data Engineer,Senior,5767,2023-05-11,,Bogotá,CO,4.8,contractor,True
+99,NW-HR-0099,Neo,HR,HR Manager,Lead,7376,2025-01-03,,Bogotá,CO,4.8,full_time,True
+100,NW-HR-0100,Nebula-100,HR,HR Manager,Senior,6161,2019-07-31,,Montevideo,UY,4.8,full_time,True
+101,NW-ENG-0101,Nebula-101,Engineering,DevOps Engineer,Junior,1870,2022-12-20,,Santiago,CL,2.7,full_time,True
+102,NW-ENG-0102,Nebula-102,Engineering,DevOps Engineer,Mid,4113,2022-09-18,,Santiago,CL,3.0,full_time,True
+103,NW-DAT-0103,Vega,Data,Data Engineer,Mid,3605,2017-04-03,,Santiago,CL,3.0,full_time,True
+104,NW-ENG-0104,Atlas,Engineering,Backend Developer,Junior,2414,2019-08-12,,Santiago,CL,3.6,full_time,True
+105,NW-SAL-0105,Apollo,Sales,Account Executive,Lead,7593,2022-10-09,,Bogotá,CO,4.3,contractor,True
+106,NW-FIN-0106,Nebula-106,Finance,Financial Analyst,Lead,7017,2014-01-02,,Buenos Aires,AR,3.7,full_time,True
+107,NW-DAT-0107,Hera,Data,Data Engineer,Senior,4512,2018-12-25,2023-03-18,Buenos Aires,AR,5.0,full_time,False
+108,NW-ENG-0108,Hera,Engineering,Backend Developer,Junior,1809,2019-12-20,,Buenos Aires,AR,4.7,full_time,True
+109,NW-ENG-0109,Goku,Engineering,DevOps Engineer,Senior,4922,2017-11-03,,Montevideo,UY,4.2,full_time,True
+110,NW-SAL-0110,Nebula-110,Sales,Sales Manager,Junior,2527,2020-09-25,,Santiago,CL,4.7,full_time,True
+111,NW-ENG-0111,Nebula-111,Engineering,DevOps Engineer,Senior,4820,2024-03-31,,Montevideo,UY,4.1,full_time,True
+112,NW-DAT-0112,Loki,Data,Data Analyst,Lead,7532,2024-01-14,2029-12-19,Montevideo,UY,3.1,contractor,False
+113,NW-ENG-0113,Nebula-113,Engineering,DevOps Engineer,Junior,2588,2014-02-06,,Bogotá,CO,4.0,contractor,True
+114,NW-DAT-0114,Nebula-114,Data,Data Engineer,Senior,4515,2017-05-02,,Bogotá,CO,2.7,full_time,True
+115,NW-SAL-0115,Vega,Sales,Account Executive,Senior,5914,2014-04-13,,Montevideo,UY,2.8,contractor,True
+116,NW-SAL-0116,Nebula-116,Sales,Sales Manager,Lead,7705,2025-04-06,,Lima,PE,3.7,full_time,True
+117,NW-SAL-0117,Nebula-117,Sales,Sales Manager,Mid,3392,2021-07-28,,Bogotá,CO,4.8,contractor,True
+118,NW-FIN-0118,Atlas,Finance,Financial Analyst,Junior,1927,2019-11-05,,Buenos Aires,AR,3.2,contractor,True
+119,NW-HR-0119,Goku,HR,HR Generalist,Senior,4853,2016-01-16,,Montevideo,UY,3.7,full_time,True
+120,NW-ENG-0120,Goku,Engineering,Frontend Developer,Lead,7491,2025-09-20,2030-04-02,Montevideo,UY,2.9,full_time,False
+121,NW-DAT-0121,Neo,Data,Data Analyst,Junior,1968,2015-11-11,,Bogotá,CO,4.6,full_time,True
+122,NW-FIN-0122,Apollo,Finance,Financial Analyst,Senior,4541,2014-08-25,,Bogotá,CO,4.2,full_time,True
+123,NW-SAL-0123,Nebula-123,Sales,Sales Manager,Senior,5471,2026-02-18,,Bogotá,CO,4.3,full_time,True
+124,NW-FIN-0124,Nebula-124,Finance,Financial Analyst,Junior,2246,2018-05-16,,Buenos Aires,AR,2.5,full_time,True
+125,NW-ENG-0125,Nebula-125,Engineering,Backend Developer,Lead,7196,2021-12-13,,Lima,PE,2.8,contractor,True
+126,NW-DAT-0126,Vega,Data,Data Engineer,Lead,6561,2019-06-14,2020-02-05,Buenos Aires,AR,4.3,contractor,False
+127,NW-FIN-0127,Loki,Finance,Financial Analyst,Senior,5223,2015-12-31,,Santiago,CL,3.7,full_time,True
+128,NW-SAL-0128,Athena,Sales,Account Executive,Senior,5060,2021-07-22,,Bogotá,CO,4.2,contractor,True
+129,NW-HR-0129,Vega,HR,HR Generalist,Mid,3801,2024-12-06,2031-03-13,Montevideo,UY,3.1,contractor,False
+130,NW-SAL-0130,Ryu,Sales,Sales Manager,Junior,2272,2024-12-15,,Lima,PE,2.8,contractor,True
+131,NW-SAL-0131,Nebula-131,Sales,Account Executive,Senior,6165,2016-08-08,2021-12-07,Santiago,CL,3.2,full_time,False
+132,NW-DAT-0132,Apollo,Data,Data Analyst,Junior,1974,2020-01-18,,Montevideo,UY,3.8,full_time,True
+133,NW-HR-0133,Nebula-133,HR,HR Manager,Mid,4104,2020-07-24,,Bogotá,CO,4.4,full_time,True
+134,NW-SAL-0134,Nebula-134,Sales,Sales Manager,Lead,7472,2015-07-08,,Lima,PE,4.4,full_time,True
+135,NW-SAL-0135,Goku,Sales,Sales Manager,Lead,7943,2015-06-13,,Buenos Aires,AR,4.0,contractor,True
+136,NW-HR-0136,Ryu,HR,HR Manager,Mid,4171,2025-09-27,,Buenos Aires,AR,2.7,full_time,True
+137,NW-HR-0137,Goku,HR,HR Generalist,Lead,7464,2025-04-24,,Montevideo,UY,4.3,contractor,True
+138,NW-DAT-0138,Vega,Data,Data Analyst,Senior,4746,2021-11-28,,Bogotá,CO,3.1,contractor,True
+139,NW-HR-0139,Nebula-139,HR,HR Manager,Senior,5690,2021-07-04,,Lima,PE,4.0,contractor,True
+140,NW-SAL-0140,Nebula-140,Sales,Account Executive,Junior,2354,2025-09-10,,Bogotá,CO,3.9,contractor,True
+141,NW-ENG-0141,Nebula-141,Engineering,Backend Developer,Mid,2906,2014-04-15,,Santiago,CL,2.7,contractor,True
+142,NW-HR-0142,Neo,HR,HR Manager,Mid,4136,2021-03-29,,Lima,PE,4.4,full_time,True
+143,NW-HR-0143,Neo,HR,HR Generalist,Senior,5646,2017-06-23,,Buenos Aires,AR,3.5,full_time,True
+144,NW-ENG-0144,Nebula-144,Engineering,Backend Developer,Mid,3641,2016-11-26,,Lima,PE,2.7,contractor,True
+145,NW-SAL-0145,Nebula-145,Sales,Account Executive,Senior,6109,2015-01-05,,Lima,PE,2.9,full_time,True
+146,NW-DAT-0146,Nebula-146,Data,Data Analyst,Lead,7489,2017-03-18,,Santiago,CL,4.8,full_time,True
+147,NW-DAT-0147,Nebula-147,Data,Data Analyst,Senior,5377,2018-10-29,,Montevideo,UY,4.7,full_time,True
+148,NW-ENG-0148,Goku,Engineering,Backend Developer,Junior,2395,2023-08-03,,Lima,PE,2.7,full_time,True
+149,NW-FIN-0149,Nebula-149,Finance,Financial Analyst,Senior,5693,2023-08-15,2027-05-05,Lima,PE,3.5,contractor,False
+150,NW-FIN-0150,Hera,Finance,Financial Analyst,Lead,7947,2025-02-22,2027-04-03,Bogotá,CO,3.0,full_time,False
+151,NW-HR-0151,Nebula-151,HR,HR Generalist,Senior,4872,2024-09-12,,Buenos Aires,AR,5.0,contractor,True
+152,NW-HR-0152,Nebula-152,HR,HR Generalist,Mid,2866,2019-05-27,,Bogotá,CO,4.4,contractor,True
+153,NW-ENG-0153,Apollo,Engineering,Frontend Developer,Lead,7663,2017-09-15,,Bogotá,CO,3.0,contractor,True
+154,NW-DAT-0154,Nebula-154,Data,Data Analyst,Lead,6923,2015-02-13,,Santiago,CL,4.1,contractor,True
+155,NW-ENG-0155,Athena,Engineering,DevOps Engineer,Senior,5004,2022-12-06,2023-09-19,Bogotá,CO,3.9,full_time,False
+156,NW-SAL-0156,Nebula-156,Sales,Account Executive,Junior,1943,2024-10-20,,Montevideo,UY,2.6,full_time,True
+157,NW-HR-0157,Nebula-157,HR,HR Generalist,Mid,2970,2021-06-07,,Lima,PE,3.8,full_time,True
+158,NW-HR-0158,Nebula-158,HR,HR Generalist,Senior,4997,2023-03-13,,Santiago,CL,3.3,contractor,True
+159,NW-DAT-0159,Nebula-159,Data,Data Engineer,Mid,3133,2025-11-18,,Lima,PE,3.6,contractor,True
+160,NW-SAL-0160,Nebula-160,Sales,Account Executive,Lead,6663,2019-11-12,2022-03-02,Bogotá,CO,3.4,contractor,False
+161,NW-FIN-0161,Nebula-161,Finance,Financial Analyst,Lead,7596,2016-04-03,,Santiago,CL,2.5,contractor,True
+162,NW-ENG-0162,Nebula-162,Engineering,DevOps Engineer,Mid,3769,2021-06-12,,Lima,PE,3.2,full_time,True
+163,NW-ENG-0163,Nebula-163,Engineering,DevOps Engineer,Mid,4193,2021-09-18,,Montevideo,UY,3.2,full_time,True
+164,NW-FIN-0164,Nebula-164,Finance,Financial Analyst,Lead,7270,2023-02-10,,Bogotá,CO,4.7,full_time,True
+165,NW-ENG-0165,Nebula-165,Engineering,Backend Developer,Senior,5604,2023-05-02,,Buenos Aires,AR,4.8,contractor,True
+166,NW-HR-0166,Nebula-166,HR,HR Generalist,Senior,5337,2018-08-26,,Montevideo,UY,2.6,contractor,True
+167,NW-HR-0167,Loki,HR,HR Manager,Junior,2271,2024-01-08,,Santiago,CL,4.9,contractor,True
+168,NW-ENG-0168,Vega,Engineering,Frontend Developer,Senior,5295,2021-08-25,2023-08-05,Lima,PE,3.1,full_time,False
+169,NW-SAL-0169,Nebula-169,Sales,Sales Manager,Lead,7577,2023-12-13,,Buenos Aires,AR,3.0,full_time,True
+170,NW-SAL-0170,Nebula-170,Sales,Sales Manager,Mid,4035,2025-06-08,,Santiago,CL,2.9,full_time,True
+171,NW-FIN-0171,Neo,Finance,Financial Analyst,Lead,8451,2020-04-02,,Bogotá,CO,3.6,full_time,True
+172,NW-DAT-0172,Nebula-172,Data,Data Analyst,Senior,5268,2015-12-31,2021-10-30,Montevideo,UY,3.7,full_time,False
+173,NW-DAT-0173,Nebula-173,Data,Data Engineer,Senior,5328,2022-03-18,,Bogotá,CO,3.7,contractor,True
+174,NW-HR-0174,Nebula-174,HR,HR Manager,Junior,2197,2017-08-28,,Lima,PE,3.2,full_time,True
+175,NW-HR-0175,Neo,HR,HR Manager,Senior,4753,2018-11-30,,Lima,PE,2.8,full_time,True
+176,NW-ENG-0176,Nebula-176,Engineering,DevOps Engineer,Junior,2279,2026-01-02,,Bogotá,CO,4.1,contractor,True
+177,NW-SAL-0177,Nebula-177,Sales,Sales Manager,Senior,4686,2023-08-04,,Montevideo,UY,2.9,contractor,True
+178,NW-SAL-0178,Athena,Sales,Account Executive,Senior,5111,2017-11-27,2023-11-05,Lima,PE,2.9,contractor,False
+179,NW-SAL-0179,Nebula-179,Sales,Sales Manager,Junior,2154,2015-11-29,,Montevideo,UY,2.6,contractor,True
+180,NW-FIN-0180,Nebula-180,Finance,Financial Analyst,Senior,5735,2024-04-29,2030-07-17,Buenos Aires,AR,3.3,contractor,False
+181,NW-HR-0181,Goku,HR,HR Generalist,Mid,2803,2014-03-01,,Santiago,CL,3.4,contractor,True
+182,NW-ENG-0182,Hera,Engineering,DevOps Engineer,Mid,3742,2024-01-17,,Santiago,CL,4.2,full_time,True
+183,NW-SAL-0183,Trinity,Sales,Account Executive,Mid,3960,2017-12-15,,Santiago,CL,3.1,contractor,True
+184,NW-SAL-0184,Atlas,Sales,Sales Manager,Lead,7307,2015-05-31,2020-10-20,Lima,PE,2.8,contractor,False
+185,NW-HR-0185,Loki,HR,HR Manager,Senior,6390,2014-11-05,2016-02-19,Buenos Aires,AR,3.0,contractor,False
+186,NW-FIN-0186,Loki,Finance,Financial Analyst,Lead,6877,2019-03-15,,Montevideo,UY,3.4,contractor,True
+187,NW-FIN-0187,Loki,Finance,Financial Analyst,Lead,6998,2022-07-07,,Santiago,CL,3.8,full_time,True
+188,NW-ENG-0188,Nebula-188,Engineering,Frontend Developer,Lead,7571,2021-07-22,,Santiago,CL,4.9,full_time,True
+189,NW-FIN-0189,Nebula-189,Finance,Financial Analyst,Mid,4071,2016-06-22,,Bogotá,CO,2.5,contractor,True
+190,NW-DAT-0190,Athena,Data,Data Analyst,Mid,4119,2017-03-11,,Montevideo,UY,4.8,full_time,True
+191,NW-SAL-0191,Nebula-191,Sales,Sales Manager,Senior,5523,2017-07-15,2019-06-12,Santiago,CL,3.1,full_time,False
+192,NW-ENG-0192,Hera,Engineering,Frontend Developer,Lead,6962,2023-03-28,2028-03-12,Santiago,CL,3.7,full_time,False
+193,NW-HR-0193,Goku,HR,HR Generalist,Mid,4010,2026-01-18,,Montevideo,UY,2.5,contractor,True
+194,NW-DAT-0194,Nebula-194,Data,Data Analyst,Mid,3797,2026-02-01,,Buenos Aires,AR,4.1,contractor,True
+195,NW-DAT-0195,Nebula-195,Data,Data Engineer,Junior,2531,2023-07-12,,Buenos Aires,AR,3.3,contractor,True
+196,NW-FIN-0196,Nebula-196,Finance,Financial Analyst,Senior,6500,2022-12-02,,Santiago,CL,4.7,full_time,True
+197,NW-HR-0197,Nebula-197,HR,HR Generalist,Lead,8152,2019-10-01,,Santiago,CL,3.4,contractor,True
+198,NW-FIN-0198,Ryu,Finance,Financial Analyst,Mid,3112,2019-08-01,,Montevideo,UY,4.0,contractor,True
+199,NW-HR-0199,Goku,HR,HR Manager,Mid,2802,2018-06-18,,Lima,PE,3.2,contractor,True
+200,NW-FIN-0200,Hera,Finance,Financial Analyst,Senior,5559,2016-05-29,,Lima,PE,2.6,contractor,True
+201,NW-ENG-0201,Hera,Engineering,Frontend Developer,Junior,2369,2014-07-04,,Santiago,CL,2.6,contractor,True
+202,NW-FIN-0202,Nebula-202,Finance,Financial Analyst,Lead,7024,2025-12-24,,Bogotá,CO,3.1,contractor,True
+203,NW-SAL-0203,Nebula-203,Sales,Account Executive,Lead,7462,2019-09-24,,Bogotá,CO,4.7,contractor,True
+204,NW-DAT-0204,Nebula-204,Data,Data Engineer,Mid,3058,2016-11-18,,Santiago,CL,4.8,full_time,True
+205,NW-SAL-0205,Nebula-205,Sales,Sales Manager,Junior,2041,2021-02-08,,Buenos Aires,AR,4.0,full_time,True
+206,NW-ENG-0206,Nebula-206,Engineering,Backend Developer,Mid,4063,2022-08-11,,Montevideo,UY,4.3,full_time,True
+207,NW-SAL-0207,Nebula-207,Sales,Sales Manager,Mid,3238,2021-02-20,,Montevideo,UY,2.8,contractor,True
+208,NW-HR-0208,Atlas,HR,HR Generalist,Mid,3857,2016-03-10,,Bogotá,CO,3.8,full_time,True
+209,NW-ENG-0209,Neo,Engineering,Frontend Developer,Lead,6924,2020-07-13,2021-09-03,Buenos Aires,AR,3.4,contractor,False
+210,NW-SAL-0210,Vega,Sales,Sales Manager,Senior,6095,2018-09-25,,Montevideo,UY,4.3,contractor,True
+211,NW-FIN-0211,Nebula-211,Finance,Financial Analyst,Junior,2219,2018-11-05,,Montevideo,UY,3.5,full_time,True
+212,NW-FIN-0212,Nebula-212,Finance,Financial Analyst,Junior,1864,2022-04-04,,Lima,PE,4.8,contractor,True
+213,NW-DAT-0213,Trinity,Data,Data Analyst,Mid,3918,2020-09-28,,Lima,PE,4.2,full_time,True
+214,NW-SAL-0214,Nebula-214,Sales,Account Executive,Senior,4969,2018-04-24,,Lima,PE,3.5,full_time,True
+215,NW-FIN-0215,Neo,Finance,Financial Analyst,Mid,3532,2016-10-20,,Santiago,CL,3.9,contractor,True
+216,NW-FIN-0216,Nebula-216,Finance,Financial Analyst,Lead,7452,2023-08-06,,Lima,PE,3.8,contractor,True
+217,NW-FIN-0217,Nebula-217,Finance,Financial Analyst,Lead,7135,2015-08-06,2019-10-04,Montevideo,UY,2.6,contractor,False
+218,NW-FIN-0218,Nebula-218,Finance,Financial Analyst,Mid,3832,2024-12-26,,Lima,PE,4.0,full_time,True
+219,NW-FIN-0219,Athena,Finance,Financial Analyst,Junior,2269,2016-06-13,,Buenos Aires,AR,4.4,full_time,True
+220,NW-DAT-0220,Goku,Data,Data Analyst,Lead,7782,2017-04-01,,Buenos Aires,AR,4.3,full_time,True
+221,NW-HR-0221,Goku,HR,HR Manager,Senior,6006,2022-10-10,,Bogotá,CO,4.2,full_time,True
+222,NW-SAL-0222,Nebula-222,Sales,Sales Manager,Senior,4561,2014-09-22,,Montevideo,UY,2.7,contractor,True
+223,NW-HR-0223,Loki,HR,HR Manager,Mid,3093,2016-09-19,,Santiago,CL,3.6,contractor,True
+224,NW-HR-0224,Nebula-224,HR,HR Manager,Senior,5583,2015-11-09,,Bogotá,CO,3.8,full_time,True
+225,NW-FIN-0225,Loki,Finance,Financial Analyst,Senior,6149,2022-05-21,2025-07-14,Lima,PE,5.0,full_time,False
+226,NW-DAT-0226,Ryu,Data,Data Engineer,Junior,2100,2020-07-20,,Santiago,CL,4.9,contractor,True
+227,NW-SAL-0227,Nebula-227,Sales,Account Executive,Senior,5984,2022-10-02,2028-05-15,Buenos Aires,AR,3.6,full_time,False
+228,NW-FIN-0228,Atlas,Finance,Financial Analyst,Lead,7353,2015-09-30,,Bogotá,CO,4.8,full_time,True
+229,NW-SAL-0229,Goku,Sales,Account Executive,Lead,7253,2015-01-02,2016-10-12,Lima,PE,2.6,contractor,False
+230,NW-FIN-0230,Nebula-230,Finance,Financial Analyst,Senior,6072,2016-09-07,,Lima,PE,4.8,full_time,True
+231,NW-ENG-0231,Atlas,Engineering,Backend Developer,Lead,7384,2020-01-03,,Lima,PE,4.1,contractor,True
+232,NW-ENG-0232,Apollo,Engineering,Backend Developer,Lead,7251,2020-03-24,,Montevideo,UY,2.7,full_time,True
+233,NW-SAL-0233,Nebula-233,Sales,Account Executive,Mid,3277,2021-07-31,,Santiago,CL,3.1,contractor,True
+234,NW-HR-0234,Hera,HR,HR Manager,Mid,3831,2018-11-20,,Buenos Aires,AR,4.2,contractor,True
+235,NW-SAL-0235,Goku,Sales,Account Executive,Senior,4929,2015-11-24,2021-03-17,Montevideo,UY,2.8,full_time,False
+236,NW-DAT-0236,Nebula-236,Data,Data Analyst,Lead,7342,2020-04-07,,Santiago,CL,2.6,full_time,True
+237,NW-HR-0237,Nebula-237,HR,HR Generalist,Junior,2207,2023-12-17,,Montevideo,UY,4.9,contractor,True
+238,NW-FIN-0238,Nebula-238,Finance,Financial Analyst,Junior,2554,2020-07-31,,Santiago,CL,3.9,contractor,True
+239,NW-DAT-0239,Atlas,Data,Data Engineer,Lead,7874,2022-04-21,2027-10-01,Santiago,CL,4.9,full_time,False
+240,NW-HR-0240,Nebula-240,HR,HR Manager,Senior,5942,2017-04-01,2021-10-23,Lima,PE,5.0,contractor,False
+241,NW-FIN-0241,Vega,Finance,Financial Analyst,Senior,5884,2020-03-29,,Bogotá,CO,3.3,contractor,True
+242,NW-SAL-0242,Nebula-242,Sales,Sales Manager,Mid,3661,2017-05-28,,Lima,PE,3.6,full_time,True
+243,NW-HR-0243,Nebula-243,HR,HR Generalist,Junior,1968,2016-11-18,,Santiago,CL,3.7,full_time,True
+244,NW-FIN-0244,Goku,Finance,Financial Analyst,Junior,2107,2019-05-30,2020-09-05,Lima,PE,3.6,contractor,False
+245,NW-SAL-0245,Athena,Sales,Account Executive,Lead,8438,2015-11-03,,Montevideo,UY,2.7,contractor,True
+246,NW-HR-0246,Nebula-246,HR,HR Manager,Mid,3037,2016-08-18,,Buenos Aires,AR,4.9,contractor,True
+247,NW-FIN-0247,Nebula-247,Finance,Financial Analyst,Junior,2355,2017-11-09,,Buenos Aires,AR,4.2,contractor,True
+248,NW-DAT-0248,Loki,Data,Data Analyst,Lead,6911,2024-08-04,,Montevideo,UY,3.4,full_time,True
+249,NW-DAT-0249,Nebula-249,Data,Data Analyst,Lead,7867,2022-12-19,,Montevideo,UY,4.6,full_time,True
+250,NW-ENG-0250,Nebula-250,Engineering,DevOps Engineer,Senior,4692,2023-07-14,,Buenos Aires,AR,4.4,full_time,True
+251,NW-FIN-0251,Nebula-251,Finance,Financial Analyst,Lead,7152,2023-06-28,,Lima,PE,2.8,full_time,True
+252,NW-HR-0252,Nebula-252,HR,HR Generalist,Mid,3403,2022-09-04,,Montevideo,UY,3.9,contractor,True
+253,NW-DAT-0253,Trinity,Data,Data Analyst,Mid,3371,2025-10-14,,Montevideo,UY,2.8,contractor,True
+254,NW-SAL-0254,Trinity,Sales,Sales Manager,Mid,3900,2015-07-01,,Santiago,CL,4.7,contractor,True
+255,NW-SAL-0255,Nebula-255,Sales,Sales Manager,Lead,7159,2021-03-23,,Montevideo,UY,3.8,full_time,True
+256,NW-FIN-0256,Nebula-256,Finance,Financial Analyst,Mid,3666,2020-07-04,,Lima,PE,3.5,contractor,True
+257,NW-SAL-0257,Goku,Sales,Account Executive,Mid,3493,2025-04-20,,Santiago,CL,4.1,full_time,True
+258,NW-HR-0258,Nebula-258,HR,HR Generalist,Senior,6319,2022-05-23,,Lima,PE,3.5,full_time,True
+259,NW-SAL-0259,Vega,Sales,Account Executive,Junior,2238,2014-08-25,,Montevideo,UY,2.9,contractor,True
+260,NW-SAL-0260,Vega,Sales,Sales Manager,Mid,3077,2020-09-10,2026-04-02,Lima,PE,3.5,contractor,False
+261,NW-DAT-0261,Hera,Data,Data Analyst,Lead,8186,2025-03-06,,Bogotá,CO,4.5,contractor,True
+262,NW-FIN-0262,Ryu,Finance,Financial Analyst,Lead,6516,2023-12-04,,Montevideo,UY,5.0,contractor,True
+263,NW-FIN-0263,Nebula-263,Finance,Financial Analyst,Senior,5487,2016-10-28,,Montevideo,UY,4.7,full_time,True
+264,NW-ENG-0264,Neo,Engineering,Backend Developer,Mid,3267,2023-09-06,2027-04-19,Bogotá,CO,3.3,contractor,False
+265,NW-ENG-0265,Nebula-265,Engineering,Frontend Developer,Mid,3977,2024-11-25,,Lima,PE,3.0,full_time,True
+266,NW-FIN-0266,Nebula-266,Finance,Financial Analyst,Junior,2184,2014-09-17,,Santiago,CL,3.5,full_time,True
+267,NW-SAL-0267,Nebula-267,Sales,Sales Manager,Lead,7198,2022-03-19,,Lima,PE,3.6,contractor,True
+268,NW-ENG-0268,Nebula-268,Engineering,Frontend Developer,Lead,6651,2019-06-05,,Bogotá,CO,4.1,contractor,True
+269,NW-DAT-0269,Vega,Data,Data Analyst,Mid,3823,2025-11-18,2030-11-24,Montevideo,UY,3.4,full_time,False
+270,NW-ENG-0270,Nebula-270,Engineering,DevOps Engineer,Junior,1878,2020-11-23,,Lima,PE,4.4,contractor,True
+271,NW-ENG-0271,Apollo,Engineering,Frontend Developer,Lead,8185,2019-03-16,,Bogotá,CO,3.5,full_time,True
+272,NW-FIN-0272,Loki,Finance,Financial Analyst,Senior,5834,2019-12-26,,Lima,PE,3.5,contractor,True
+273,NW-SAL-0273,Nebula-273,Sales,Sales Manager,Junior,2113,2019-01-02,,Santiago,CL,4.9,contractor,True
+274,NW-ENG-0274,Nebula-274,Engineering,Frontend Developer,Senior,5147,2015-11-06,,Santiago,CL,4.4,full_time,True
+275,NW-FIN-0275,Nebula-275,Finance,Financial Analyst,Senior,4536,2014-03-03,,Santiago,CL,4.3,contractor,True
+276,NW-SAL-0276,Atlas,Sales,Account Executive,Junior,1843,2021-08-10,,Montevideo,UY,4.3,full_time,True
+277,NW-FIN-0277,Nebula-277,Finance,Financial Analyst,Senior,6467,2022-04-27,,Bogotá,CO,2.6,contractor,True
+278,NW-ENG-0278,Ryu,Engineering,DevOps Engineer,Mid,2805,2023-04-16,,Bogotá,CO,3.2,contractor,True
+279,NW-ENG-0279,Nebula-279,Engineering,DevOps Engineer,Junior,1910,2018-11-25,,Buenos Aires,AR,4.5,contractor,True
+280,NW-HR-0280,Nebula-280,HR,HR Manager,Senior,6011,2022-12-24,,Bogotá,CO,4.0,contractor,True
+281,NW-ENG-0281,Nebula-281,Engineering,Backend Developer,Junior,1822,2022-08-02,,Lima,PE,4.4,contractor,True
+282,NW-ENG-0282,Nebula-282,Engineering,Frontend Developer,Lead,7469,2019-09-21,,Buenos Aires,AR,4.3,full_time,True
+283,NW-HR-0283,Nebula-283,HR,HR Manager,Junior,2053,2019-08-27,,Bogotá,CO,4.3,contractor,True
+284,NW-HR-0284,Nebula-284,HR,HR Manager,Senior,5047,2023-03-09,,Lima,PE,3.9,contractor,True
+285,NW-SAL-0285,Atlas,Sales,Account Executive,Lead,7409,2022-08-08,,Bogotá,CO,4.5,contractor,True
+286,NW-DAT-0286,Hera,Data,Data Analyst,Lead,7018,2017-04-03,,Lima,PE,3.8,full_time,True
+287,NW-SAL-0287,Nebula-287,Sales,Account Executive,Mid,3831,2017-08-12,,Lima,PE,3.7,contractor,True
+288,NW-DAT-0288,Nebula-288,Data,Data Engineer,Junior,2275,2021-07-29,,Montevideo,UY,3.4,contractor,True
+289,NW-FIN-0289,Nebula-289,Finance,Financial Analyst,Lead,7919,2025-03-16,2029-11-20,Bogotá,CO,2.6,full_time,False
+290,NW-SAL-0290,Nebula-290,Sales,Sales Manager,Junior,2252,2018-01-23,,Lima,PE,3.3,contractor,True
+291,NW-FIN-0291,Athena,Finance,Financial Analyst,Senior,6343,2022-05-22,,Lima,PE,3.4,full_time,True
+292,NW-DAT-0292,Neo,Data,Data Engineer,Junior,2305,2025-09-23,,Santiago,CL,2.6,full_time,True
+293,NW-SAL-0293,Trinity,Sales,Account Executive,Junior,2031,2016-09-26,,Bogotá,CO,4.7,full_time,True
+294,NW-ENG-0294,Trinity,Engineering,DevOps Engineer,Senior,6052,2016-12-25,,Bogotá,CO,4.0,full_time,True
+295,NW-HR-0295,Nebula-295,HR,HR Generalist,Junior,2310,2025-08-03,,Lima,PE,4.5,contractor,True
+296,NW-SAL-0296,Nebula-296,Sales,Account Executive,Senior,4972,2020-05-27,,Montevideo,UY,2.6,full_time,True
+297,NW-DAT-0297,Atlas,Data,Data Engineer,Lead,7733,2016-09-09,,Bogotá,CO,3.6,full_time,True
+298,NW-HR-0298,Trinity,HR,HR Generalist,Junior,2280,2014-08-05,,Bogotá,CO,4.9,contractor,True
+299,NW-ENG-0299,Trinity,Engineering,Backend Developer,Mid,3723,2025-10-14,,Santiago,CL,4.9,full_time,True
+300,NW-ENG-0300,Nebula-300,Engineering,DevOps Engineer,Mid,4168,2016-10-21,,Montevideo,UY,4.8,contractor,True
+301,NW-ENG-0301,Nebula-301,Engineering,Backend Developer,Lead,8080,2020-11-18,,Bogotá,CO,4.7,contractor,True
+302,NW-DAT-0302,Nebula-302,Data,Data Engineer,Junior,1955,2020-10-09,,Lima,PE,3.4,full_time,True
+303,NW-HR-0303,Nebula-303,HR,HR Generalist,Lead,7775,2022-12-19,,Bogotá,CO,3.3,full_time,True
+304,NW-DAT-0304,Nebula-304,Data,Data Engineer,Lead,7969,2015-12-12,,Bogotá,CO,3.2,contractor,True
+305,NW-HR-0305,Nebula-305,HR,HR Manager,Senior,5090,2017-04-23,,Lima,PE,3.0,full_time,True
+306,NW-DAT-0306,Nebula-306,Data,Data Engineer,Lead,7675,2018-04-05,,Lima,PE,3.1,full_time,True
+307,NW-DAT-0307,Nebula-307,Data,Data Analyst,Senior,4985,2017-04-12,2019-04-09,Lima,PE,3.7,full_time,False
+308,NW-HR-0308,Loki,HR,HR Manager,Junior,2550,2022-05-04,,Bogotá,CO,4.6,contractor,True
+309,NW-SAL-0309,Ryu,Sales,Sales Manager,Junior,1963,2015-10-12,,Montevideo,UY,3.7,contractor,True
+310,NW-ENG-0310,Apollo,Engineering,DevOps Engineer,Junior,1880,2014-09-29,,Santiago,CL,3.9,contractor,True
+311,NW-DAT-0311,Nebula-311,Data,Data Engineer,Senior,5161,2017-12-03,,Bogotá,CO,4.3,full_time,True
+312,NW-SAL-0312,Neo,Sales,Sales Manager,Lead,6690,2023-05-27,2026-11-25,Santiago,CL,3.2,full_time,False
+313,NW-SAL-0313,Nebula-313,Sales,Sales Manager,Senior,5817,2014-01-17,,Buenos Aires,AR,4.6,full_time,True
+314,NW-DAT-0314,Neo,Data,Data Engineer,Mid,4127,2015-09-07,,Lima,PE,4.6,full_time,True
+315,NW-ENG-0315,Nebula-315,Engineering,Backend Developer,Lead,6669,2019-10-01,,Bogotá,CO,3.3,contractor,True
+316,NW-DAT-0316,Vega,Data,Data Analyst,Lead,7434,2015-08-29,,Buenos Aires,AR,3.6,contractor,True
+317,NW-DAT-0317,Hera,Data,Data Engineer,Lead,8436,2020-08-15,2023-04-18,Buenos Aires,AR,3.8,full_time,False
+318,NW-SAL-0318,Athena,Sales,Sales Manager,Junior,2111,2024-11-19,,Montevideo,UY,2.9,full_time,True
+319,NW-HR-0319,Apollo,HR,HR Generalist,Lead,8195,2023-09-08,,Lima,PE,2.6,contractor,True
+320,NW-ENG-0320,Trinity,Engineering,DevOps Engineer,Senior,6320,2016-04-08,,Buenos Aires,AR,4.6,contractor,True
+321,NW-HR-0321,Trinity,HR,HR Generalist,Senior,5195,2023-06-17,,Lima,PE,4.4,full_time,True
+322,NW-DAT-0322,Nebula-322,Data,Data Analyst,Mid,2842,2025-10-02,,Buenos Aires,AR,2.9,contractor,True
+323,NW-SAL-0323,Athena,Sales,Sales Manager,Mid,3791,2014-10-13,2021-03-06,Bogotá,CO,3.6,contractor,False
+324,NW-HR-0324,Loki,HR,HR Generalist,Senior,4582,2021-08-23,,Santiago,CL,3.7,contractor,True
+325,NW-FIN-0325,Loki,Finance,Financial Analyst,Lead,7870,2014-06-10,,Santiago,CL,4.8,contractor,True
+326,NW-HR-0326,Nebula-326,HR,HR Generalist,Junior,2566,2019-10-10,,Santiago,CL,2.7,full_time,True
+327,NW-HR-0327,Nebula-327,HR,HR Generalist,Mid,3306,2019-08-30,,Buenos Aires,AR,3.0,full_time,True
+328,NW-HR-0328,Nebula-328,HR,HR Manager,Junior,2582,2024-11-21,,Montevideo,UY,2.6,contractor,True
+329,NW-DAT-0329,Nebula-329,Data,Data Analyst,Mid,3812,2021-09-05,,Montevideo,UY,4.5,full_time,True
+330,NW-FIN-0330,Nebula-330,Finance,Financial Analyst,Mid,4050,2024-09-25,,Santiago,CL,4.8,full_time,True
+331,NW-ENG-0331,Nebula-331,Engineering,DevOps Engineer,Junior,2133,2024-02-17,,Buenos Aires,AR,4.9,contractor,True
+332,NW-DAT-0332,Neo,Data,Data Engineer,Lead,6587,2024-04-06,2030-09-18,Montevideo,UY,3.3,full_time,False
+333,NW-DAT-0333,Nebula-333,Data,Data Analyst,Senior,6408,2014-06-05,,Lima,PE,3.1,full_time,True
+334,NW-DAT-0334,Nebula-334,Data,Data Analyst,Mid,3698,2016-08-13,2017-05-05,Buenos Aires,AR,4.5,contractor,False
+335,NW-HR-0335,Athena,HR,HR Generalist,Lead,7988,2021-04-09,2025-11-01,Buenos Aires,AR,4.1,contractor,False
+336,NW-HR-0336,Nebula-336,HR,HR Generalist,Senior,5317,2019-10-12,,Buenos Aires,AR,3.0,contractor,True
+337,NW-HR-0337,Ryu,HR,HR Generalist,Senior,6287,2014-02-04,,Lima,PE,3.2,contractor,True
+338,NW-DAT-0338,Nebula-338,Data,Data Engineer,Junior,1918,2025-05-18,,Montevideo,UY,4.4,full_time,True
+339,NW-SAL-0339,Nebula-339,Sales,Sales Manager,Junior,2087,2020-11-07,,Buenos Aires,AR,2.8,contractor,True
+340,NW-SAL-0340,Nebula-340,Sales,Sales Manager,Junior,2264,2019-08-06,,Buenos Aires,AR,3.0,full_time,True
+341,NW-DAT-0341,Nebula-341,Data,Data Analyst,Senior,5682,2018-07-01,,Buenos Aires,AR,4.7,contractor,True
+342,NW-ENG-0342,Atlas,Engineering,Frontend Developer,Junior,2440,2016-03-07,,Bogotá,CO,2.5,contractor,True
+343,NW-ENG-0343,Loki,Engineering,DevOps Engineer,Senior,6020,2024-06-08,,Lima,PE,2.7,full_time,True
+344,NW-SAL-0344,Nebula-344,Sales,Account Executive,Mid,3496,2018-05-17,,Lima,PE,4.3,contractor,True
+345,NW-SAL-0345,Nebula-345,Sales,Sales Manager,Mid,3578,2016-02-07,,Montevideo,UY,5.0,full_time,True
+346,NW-ENG-0346,Loki,Engineering,Backend Developer,Junior,2110,2015-03-14,2019-10-31,Buenos Aires,AR,4.4,full_time,False
+347,NW-FIN-0347,Nebula-347,Finance,Financial Analyst,Lead,7764,2024-08-17,,Santiago,CL,4.3,contractor,True
+348,NW-ENG-0348,Trinity,Engineering,DevOps Engineer,Mid,3014,2022-01-27,,Montevideo,UY,4.4,contractor,True
+349,NW-DAT-0349,Apollo,Data,Data Analyst,Junior,1916,2023-11-08,,Bogotá,CO,2.7,full_time,True
+350,NW-DAT-0350,Goku,Data,Data Engineer,Junior,1987,2018-07-12,,Buenos Aires,AR,2.5,full_time,True
+351,NW-HR-0351,Nebula-351,HR,HR Manager,Junior,2073,2021-08-12,,Bogotá,CO,3.2,contractor,True
+352,NW-SAL-0352,Vega,Sales,Account Executive,Lead,7735,2025-02-03,,Bogotá,CO,4.5,contractor,True
+353,NW-DAT-0353,Nebula-353,Data,Data Engineer,Senior,6280,2020-02-16,2021-06-25,Lima,PE,3.2,contractor,False
+354,NW-FIN-0354,Vega,Finance,Financial Analyst,Lead,6662,2018-11-15,,Lima,PE,4.4,full_time,True
+355,NW-ENG-0355,Nebula-355,Engineering,DevOps Engineer,Lead,6608,2015-04-01,2021-10-17,Montevideo,UY,2.5,full_time,False
+356,NW-SAL-0356,Trinity,Sales,Sales Manager,Mid,2857,2019-10-25,2026-07-17,Bogotá,CO,4.2,contractor,False
+357,NW-SAL-0357,Nebula-357,Sales,Account Executive,Junior,2445,2017-03-31,,Lima,PE,3.2,full_time,True
+358,NW-ENG-0358,Atlas,Engineering,DevOps Engineer,Lead,8372,2015-10-29,,Bogotá,CO,3.1,full_time,True
+359,NW-SAL-0359,Nebula-359,Sales,Sales Manager,Junior,2038,2022-12-07,,Bogotá,CO,4.5,full_time,True
+360,NW-SAL-0360,Nebula-360,Sales,Account Executive,Mid,3373,2015-05-19,,Montevideo,UY,2.7,contractor,True
+361,NW-DAT-0361,Ryu,Data,Data Analyst,Junior,1880,2024-03-06,,Buenos Aires,AR,3.7,full_time,True
+362,NW-FIN-0362,Trinity,Finance,Financial Analyst,Mid,4130,2023-05-02,,Buenos Aires,AR,3.2,contractor,True
+363,NW-ENG-0363,Nebula-363,Engineering,Backend Developer,Lead,6734,2016-02-12,2017-02-12,Santiago,CL,3.7,contractor,False
+364,NW-HR-0364,Atlas,HR,HR Generalist,Lead,8045,2024-11-12,,Buenos Aires,AR,3.1,full_time,True
+365,NW-HR-0365,Atlas,HR,HR Generalist,Mid,2962,2025-09-20,,Lima,PE,4.3,contractor,True
+366,NW-HR-0366,Nebula-366,HR,HR Generalist,Junior,2181,2022-05-19,,Buenos Aires,AR,3.8,contractor,True
+367,NW-SAL-0367,Nebula-367,Sales,Sales Manager,Junior,1910,2024-08-12,,Buenos Aires,AR,2.5,contractor,True
+368,NW-FIN-0368,Goku,Finance,Financial Analyst,Mid,4058,2016-09-15,,Bogotá,CO,4.1,full_time,True
+369,NW-FIN-0369,Nebula-369,Finance,Financial Analyst,Mid,3229,2019-11-22,2024-07-26,Montevideo,UY,4.6,full_time,False
+370,NW-DAT-0370,Loki,Data,Data Analyst,Mid,2960,2021-03-07,,Lima,PE,4.6,full_time,True
+371,NW-SAL-0371,Trinity,Sales,Sales Manager,Junior,1943,2023-07-20,,Bogotá,CO,2.8,full_time,True
+372,NW-SAL-0372,Athena,Sales,Account Executive,Senior,5086,2024-04-17,2028-05-24,Santiago,CL,2.8,contractor,False
+373,NW-DAT-0373,Loki,Data,Data Engineer,Lead,7598,2016-08-01,,Bogotá,CO,5.0,contractor,True
+374,NW-FIN-0374,Nebula-374,Finance,Financial Analyst,Junior,1905,2025-09-26,,Lima,PE,4.1,contractor,True
+375,NW-DAT-0375,Nebula-375,Data,Data Engineer,Lead,7340,2016-06-02,2017-09-25,Bogotá,CO,4.3,full_time,False
+376,NW-FIN-0376,Nebula-376,Finance,Financial Analyst,Mid,3480,2014-09-14,,Buenos Aires,AR,4.1,full_time,True
+377,NW-DAT-0377,Ryu,Data,Data Analyst,Mid,3376,2016-12-26,,Montevideo,UY,3.3,contractor,True
+378,NW-FIN-0378,Vega,Finance,Financial Analyst,Mid,4053,2015-03-11,,Santiago,CL,4.9,full_time,True
+379,NW-SAL-0379,Hera,Sales,Sales Manager,Lead,7701,2016-12-26,,Santiago,CL,4.1,contractor,True
+380,NW-HR-0380,Nebula-380,HR,HR Manager,Mid,4155,2020-01-17,,Montevideo,UY,2.7,full_time,True
+381,NW-ENG-0381,Nebula-381,Engineering,Frontend Developer,Junior,2134,2018-04-20,,Buenos Aires,AR,3.4,full_time,True
+382,NW-HR-0382,Nebula-382,HR,HR Generalist,Senior,6124,2015-08-10,2018-09-06,Lima,PE,4.3,contractor,False
+383,NW-HR-0383,Nebula-383,HR,HR Manager,Senior,5722,2021-01-11,,Bogotá,CO,4.5,full_time,True
+384,NW-DAT-0384,Vega,Data,Data Analyst,Lead,8397,2023-06-16,,Buenos Aires,AR,3.1,contractor,True
+385,NW-HR-0385,Nebula-385,HR,HR Manager,Junior,2514,2017-12-08,,Lima,PE,3.9,contractor,True
+386,NW-DAT-0386,Nebula-386,Data,Data Engineer,Lead,7821,2018-05-29,,Lima,PE,4.2,full_time,True
+387,NW-SAL-0387,Loki,Sales,Account Executive,Junior,2544,2021-05-24,,Santiago,CL,3.1,full_time,True
+388,NW-SAL-0388,Trinity,Sales,Account Executive,Senior,4662,2025-04-27,,Buenos Aires,AR,5.0,full_time,True
+389,NW-SAL-0389,Nebula-389,Sales,Account Executive,Senior,5617,2018-06-22,,Santiago,CL,3.8,contractor,True
+390,NW-SAL-0390,Ryu,Sales,Account Executive,Senior,5518,2023-04-10,2029-07-23,Montevideo,UY,3.8,full_time,False
+391,NW-SAL-0391,Nebula-391,Sales,Account Executive,Mid,3202,2015-06-08,,Buenos Aires,AR,2.8,contractor,True
+392,NW-HR-0392,Neo,HR,HR Manager,Lead,7220,2014-02-12,,Lima,PE,3.3,contractor,True
+393,NW-ENG-0393,Apollo,Engineering,DevOps Engineer,Lead,8274,2015-03-26,,Bogotá,CO,4.6,contractor,True
+394,NW-DAT-0394,Trinity,Data,Data Analyst,Mid,3214,2020-07-18,,Santiago,CL,4.1,contractor,True
+395,NW-SAL-0395,Atlas,Sales,Account Executive,Mid,3193,2016-09-26,,Santiago,CL,3.3,contractor,True
+396,NW-ENG-0396,Nebula-396,Engineering,Backend Developer,Senior,4760,2023-05-06,,Bogotá,CO,4.6,contractor,True
+397,NW-HR-0397,Vega,HR,HR Generalist,Junior,2151,2017-09-19,,Bogotá,CO,4.1,contractor,True
+398,NW-SAL-0398,Nebula-398,Sales,Sales Manager,Lead,8319,2014-12-22,,Lima,PE,2.6,contractor,True
+399,NW-HR-0399,Trinity,HR,HR Generalist,Senior,4901,2017-11-18,,Bogotá,CO,4.7,full_time,True
+400,NW-FIN-0400,Nebula-400,Finance,Financial Analyst,Lead,8361,2020-02-21,,Santiago,CL,3.1,contractor,True
+401,NW-SAL-0401,Ryu,Sales,Account Executive,Mid,3640,2026-01-29,,Montevideo,UY,4.6,full_time,True
+402,NW-SAL-0402,Vega,Sales,Sales Manager,Lead,7374,2023-06-01,,Santiago,CL,3.7,full_time,True
+403,NW-SAL-0403,Nebula-403,Sales,Account Executive,Junior,2239,2022-10-02,,Lima,PE,2.8,full_time,True
+404,NW-HR-0404,Nebula-404,HR,HR Manager,Senior,6190,2020-10-05,,Lima,PE,5.0,contractor,True
+405,NW-ENG-0405,Nebula-405,Engineering,Backend Developer,Mid,3708,2021-05-07,,Lima,PE,3.8,contractor,True
+406,NW-HR-0406,Goku,HR,HR Manager,Mid,4029,2021-10-30,,Montevideo,UY,2.7,full_time,True
+407,NW-ENG-0407,Nebula-407,Engineering,DevOps Engineer,Junior,2592,2017-02-21,,Lima,PE,3.5,full_time,True
+408,NW-FIN-0408,Nebula-408,Finance,Financial Analyst,Senior,5341,2023-08-16,,Bogotá,CO,3.2,contractor,True
+409,NW-DAT-0409,Loki,Data,Data Engineer,Mid,3006,2014-12-11,,Lima,PE,2.5,contractor,True
+410,NW-DAT-0410,Goku,Data,Data Analyst,Mid,4050,2017-11-15,,Buenos Aires,AR,2.9,contractor,True
+411,NW-HR-0411,Trinity,HR,HR Manager,Junior,2424,2022-04-04,,Lima,PE,3.6,contractor,True
+412,NW-ENG-0412,Nebula-412,Engineering,DevOps Engineer,Senior,6189,2019-08-23,,Montevideo,UY,3.1,contractor,True
+413,NW-SAL-0413,Nebula-413,Sales,Sales Manager,Senior,5399,2016-06-06,,Santiago,CL,4.6,contractor,True
+414,NW-ENG-0414,Atlas,Engineering,DevOps Engineer,Mid,3486,2016-12-25,2022-09-25,Lima,PE,3.8,contractor,False
+415,NW-ENG-0415,Vega,Engineering,Frontend Developer,Mid,2966,2021-05-05,,Montevideo,UY,4.3,contractor,True
+416,NW-DAT-0416,Nebula-416,Data,Data Engineer,Senior,5750,2018-03-08,,Bogotá,CO,4.3,contractor,True
+417,NW-HR-0417,Nebula-417,HR,HR Generalist,Junior,2594,2015-12-04,,Santiago,CL,3.0,full_time,True
+418,NW-DAT-0418,Goku,Data,Data Analyst,Senior,5410,2020-02-10,,Bogotá,CO,3.2,contractor,True
+419,NW-SAL-0419,Neo,Sales,Sales Manager,Mid,3178,2024-12-08,,Montevideo,UY,2.5,contractor,True
+420,NW-DAT-0420,Nebula-420,Data,Data Analyst,Senior,5866,2020-10-26,,Bogotá,CO,2.6,contractor,True
+421,NW-DAT-0421,Athena,Data,Data Analyst,Lead,6987,2020-12-10,,Bogotá,CO,3.9,full_time,True
+422,NW-DAT-0422,Nebula-422,Data,Data Engineer,Mid,2980,2014-12-13,,Santiago,CL,2.6,contractor,True
+423,NW-FIN-0423,Nebula-423,Finance,Financial Analyst,Mid,3531,2014-07-04,,Buenos Aires,AR,4.2,contractor,True
+424,NW-HR-0424,Nebula-424,HR,HR Generalist,Junior,2497,2024-05-08,,Lima,PE,4.2,full_time,True
+425,NW-FIN-0425,Nebula-425,Finance,Financial Analyst,Junior,2402,2014-02-25,,Buenos Aires,AR,3.5,full_time,True
+426,NW-DAT-0426,Nebula-426,Data,Data Engineer,Lead,7313,2016-04-19,,Montevideo,UY,2.7,full_time,True
+427,NW-SAL-0427,Nebula-427,Sales,Account Executive,Senior,6181,2024-11-02,,Lima,PE,4.5,full_time,True
+428,NW-SAL-0428,Goku,Sales,Sales Manager,Junior,2429,2016-11-28,2021-05-14,Lima,PE,3.5,full_time,False
+429,NW-DAT-0429,Nebula-429,Data,Data Engineer,Lead,6625,2014-12-02,,Bogotá,CO,2.7,contractor,True
+430,NW-SAL-0430,Nebula-430,Sales,Sales Manager,Mid,3157,2016-03-22,2021-11-15,Santiago,CL,4.9,contractor,False
+431,NW-DAT-0431,Athena,Data,Data Analyst,Junior,1897,2024-06-21,,Buenos Aires,AR,3.4,full_time,True
+432,NW-SAL-0432,Trinity,Sales,Account Executive,Mid,2968,2016-11-19,,Buenos Aires,AR,3.6,full_time,True
+433,NW-ENG-0433,Trinity,Engineering,Frontend Developer,Mid,4099,2017-08-21,2021-01-08,Bogotá,CO,4.4,full_time,False
+434,NW-HR-0434,Goku,HR,HR Generalist,Lead,8038,2020-04-07,,Santiago,CL,4.4,contractor,True
+435,NW-FIN-0435,Nebula-435,Finance,Financial Analyst,Mid,3874,2025-09-12,,Montevideo,UY,4.5,contractor,True
+436,NW-FIN-0436,Nebula-436,Finance,Financial Analyst,Mid,3130,2016-06-05,,Lima,PE,3.0,contractor,True
+437,NW-ENG-0437,Goku,Engineering,Backend Developer,Mid,3424,2015-01-30,,Lima,PE,3.8,contractor,True
+438,NW-SAL-0438,Ryu,Sales,Sales Manager,Lead,6752,2016-08-02,,Montevideo,UY,4.1,contractor,True
+439,NW-FIN-0439,Nebula-439,Finance,Financial Analyst,Mid,3544,2015-04-04,,Montevideo,UY,2.6,contractor,True
+440,NW-HR-0440,Trinity,HR,HR Manager,Junior,2132,2023-09-19,,Buenos Aires,AR,4.8,contractor,True
+441,NW-FIN-0441,Ryu,Finance,Financial Analyst,Junior,1884,2023-05-17,,Montevideo,UY,3.9,contractor,True
+442,NW-SAL-0442,Nebula-442,Sales,Sales Manager,Lead,7173,2021-01-20,,Santiago,CL,2.9,full_time,True
+443,NW-FIN-0443,Nebula-443,Finance,Financial Analyst,Junior,2185,2016-06-11,,Buenos Aires,AR,3.6,contractor,True
+444,NW-ENG-0444,Nebula-444,Engineering,Backend Developer,Mid,3972,2020-06-06,,Bogotá,CO,4.3,full_time,True
+445,NW-DAT-0445,Nebula-445,Data,Data Analyst,Senior,5770,2020-04-08,,Bogotá,CO,3.6,contractor,True
+446,NW-SAL-0446,Ryu,Sales,Sales Manager,Senior,6200,2023-05-13,,Bogotá,CO,4.1,full_time,True
+447,NW-DAT-0447,Trinity,Data,Data Engineer,Junior,2374,2022-04-13,,Lima,PE,4.9,full_time,True
+448,NW-DAT-0448,Nebula-448,Data,Data Engineer,Junior,2317,2014-12-31,,Bogotá,CO,3.7,contractor,True
+449,NW-ENG-0449,Neo,Engineering,DevOps Engineer,Junior,1974,2017-09-17,,Bogotá,CO,3.7,full_time,True
+450,NW-FIN-0450,Nebula-450,Finance,Financial Analyst,Mid,3168,2017-09-18,,Lima,PE,4.1,full_time,True
+451,NW-SAL-0451,Nebula-451,Sales,Account Executive,Junior,2005,2023-09-18,,Montevideo,UY,2.7,contractor,True
+452,NW-HR-0452,Ryu,HR,HR Manager,Senior,6345,2014-06-20,,Buenos Aires,AR,4.7,contractor,True
+453,NW-SAL-0453,Atlas,Sales,Sales Manager,Senior,6048,2024-01-12,,Bogotá,CO,3.2,contractor,True
+454,NW-SAL-0454,Nebula-454,Sales,Sales Manager,Junior,2600,2018-07-07,,Lima,PE,3.0,contractor,True
+455,NW-DAT-0455,Apollo,Data,Data Analyst,Junior,2157,2018-11-21,,Lima,PE,4.1,contractor,True
+456,NW-SAL-0456,Trinity,Sales,Sales Manager,Junior,2202,2015-09-06,,Buenos Aires,AR,4.8,full_time,True
+457,NW-FIN-0457,Nebula-457,Finance,Financial Analyst,Senior,5838,2019-11-15,,Santiago,CL,3.2,contractor,True
+458,NW-ENG-0458,Ryu,Engineering,Backend Developer,Junior,2162,2018-09-27,2020-04-25,Bogotá,CO,3.9,full_time,False
+459,NW-HR-0459,Nebula-459,HR,HR Generalist,Mid,2982,2019-07-21,,Santiago,CL,4.1,contractor,True
+460,NW-FIN-0460,Apollo,Finance,Financial Analyst,Junior,2009,2026-02-19,,Lima,PE,4.1,contractor,True
+461,NW-DAT-0461,Nebula-461,Data,Data Analyst,Senior,5614,2016-01-20,,Buenos Aires,AR,3.9,contractor,True
+462,NW-FIN-0462,Apollo,Finance,Financial Analyst,Senior,4839,2017-09-05,2021-07-03,Bogotá,CO,3.5,full_time,False
+463,NW-SAL-0463,Nebula-463,Sales,Account Executive,Mid,3070,2017-12-21,,Lima,PE,4.3,full_time,True
+464,NW-ENG-0464,Neo,Engineering,DevOps Engineer,Mid,3992,2024-03-13,,Buenos Aires,AR,2.6,full_time,True
+465,NW-ENG-0465,Atlas,Engineering,DevOps Engineer,Senior,6289,2019-01-12,,Montevideo,UY,4.9,full_time,True
+466,NW-SAL-0466,Hera,Sales,Sales Manager,Senior,5513,2014-02-20,,Bogotá,CO,3.4,contractor,True
+467,NW-SAL-0467,Goku,Sales,Account Executive,Junior,2331,2016-08-13,,Lima,PE,4.4,contractor,True
+468,NW-HR-0468,Hera,HR,HR Generalist,Junior,2011,2024-03-05,,Bogotá,CO,3.4,full_time,True
+469,NW-DAT-0469,Nebula-469,Data,Data Analyst,Junior,1899,2022-02-14,,Buenos Aires,AR,3.4,full_time,True
+470,NW-FIN-0470,Neo,Finance,Financial Analyst,Junior,1930,2015-04-21,2017-05-09,Montevideo,UY,3.8,contractor,False
+471,NW-FIN-0471,Nebula-471,Finance,Financial Analyst,Senior,6170,2014-02-18,,Bogotá,CO,4.9,full_time,True
+472,NW-HR-0472,Neo,HR,HR Manager,Junior,2261,2014-09-03,2016-09-02,Montevideo,UY,3.7,full_time,False
+473,NW-HR-0473,Nebula-473,HR,HR Manager,Lead,7172,2019-12-28,,Buenos Aires,AR,3.5,full_time,True
+474,NW-SAL-0474,Nebula-474,Sales,Account Executive,Senior,5017,2018-07-26,,Lima,PE,4.1,full_time,True
+475,NW-SAL-0475,Loki,Sales,Account Executive,Mid,3874,2014-02-21,,Santiago,CL,3.4,contractor,True
+476,NW-FIN-0476,Nebula-476,Finance,Financial Analyst,Junior,2011,2024-10-23,,Montevideo,UY,4.9,contractor,True
+477,NW-HR-0477,Nebula-477,HR,HR Manager,Junior,2076,2015-10-24,,Montevideo,UY,2.7,contractor,True
+478,NW-FIN-0478,Hera,Finance,Financial Analyst,Senior,5460,2017-07-24,,Buenos Aires,AR,4.6,full_time,True
+479,NW-HR-0479,Nebula-479,HR,HR Generalist,Mid,2861,2024-09-17,,Santiago,CL,2.5,full_time,True
+480,NW-HR-0480,Ryu,HR,HR Generalist,Junior,2344,2014-04-15,2017-03-04,Montevideo,UY,3.3,contractor,False
+481,NW-HR-0481,Loki,HR,HR Manager,Mid,3066,2014-12-16,,Santiago,CL,4.5,full_time,True
+482,NW-FIN-0482,Nebula-482,Finance,Financial Analyst,Mid,3117,2024-09-18,,Buenos Aires,AR,4.2,contractor,True
+483,NW-DAT-0483,Trinity,Data,Data Engineer,Mid,4006,2017-06-09,,Montevideo,UY,4.5,full_time,True
+484,NW-ENG-0484,Loki,Engineering,Frontend Developer,Senior,5539,2025-08-22,2030-09-28,Santiago,CL,4.3,contractor,False
+485,NW-DAT-0485,Nebula-485,Data,Data Engineer,Senior,4703,2022-05-21,,Lima,PE,3.6,contractor,True
+486,NW-FIN-0486,Trinity,Finance,Financial Analyst,Junior,1919,2023-06-03,,Montevideo,UY,3.4,contractor,True
+487,NW-HR-0487,Nebula-487,HR,HR Manager,Senior,5628,2023-08-13,,Buenos Aires,AR,4.9,full_time,True
+488,NW-ENG-0488,Apollo,Engineering,Frontend Developer,Lead,6968,2018-05-16,,Bogotá,CO,2.6,full_time,True
+489,NW-SAL-0489,Nebula-489,Sales,Account Executive,Junior,2036,2024-04-17,,Buenos Aires,AR,3.1,contractor,True
+490,NW-DAT-0490,Nebula-490,Data,Data Engineer,Senior,4801,2025-04-13,,Bogotá,CO,4.7,full_time,True
+491,NW-FIN-0491,Loki,Finance,Financial Analyst,Lead,7716,2025-09-12,2029-09-05,Buenos Aires,AR,3.7,full_time,False
+492,NW-FIN-0492,Athena,Finance,Financial Analyst,Senior,4760,2018-06-21,,Bogotá,CO,4.9,full_time,True
+493,NW-FIN-0493,Goku,Finance,Financial Analyst,Senior,6437,2022-02-20,,Buenos Aires,AR,4.3,full_time,True
+494,NW-SAL-0494,Goku,Sales,Sales Manager,Mid,3772,2023-03-06,,Montevideo,UY,4.6,contractor,True
+495,NW-ENG-0495,Trinity,Engineering,Backend Developer,Lead,7712,2018-06-11,,Bogotá,CO,3.2,contractor,True
+496,NW-FIN-0496,Nebula-496,Finance,Financial Analyst,Junior,1885,2014-05-18,2018-04-11,Buenos Aires,AR,3.6,full_time,False
+497,NW-ENG-0497,Apollo,Engineering,Backend Developer,Mid,3292,2016-04-13,,Buenos Aires,AR,3.7,full_time,True
+498,NW-DAT-0498,Neo,Data,Data Engineer,Mid,3741,2019-11-09,,Santiago,CL,3.8,full_time,True
+499,NW-ENG-0499,Nebula-499,Engineering,DevOps Engineer,Junior,2486,2024-02-09,,Buenos Aires,AR,3.9,full_time,True
+500,NW-ENG-0500,Goku,Engineering,Backend Developer,Lead,7108,2016-12-09,,Santiago,CL,3.7,full_time,True
+501,NW-ENG-0501,Nebula-501,Engineering,DevOps Engineer,Mid,3993,2016-04-02,,Montevideo,UY,2.9,contractor,True
+502,NW-HR-0502,Neo,HR,HR Generalist,Senior,4675,2017-08-14,,Buenos Aires,AR,3.4,contractor,True
+503,NW-DAT-0503,Athena,Data,Data Analyst,Junior,2216,2017-10-13,,Bogotá,CO,3.5,full_time,True
+504,NW-SAL-0504,Nebula-504,Sales,Account Executive,Senior,6280,2016-07-02,,Lima,PE,2.8,contractor,True
+505,NW-HR-0505,Trinity,HR,HR Generalist,Lead,6596,2015-01-28,,Montevideo,UY,2.7,full_time,True
+506,NW-SAL-0506,Apollo,Sales,Sales Manager,Lead,7173,2021-04-12,,Buenos Aires,AR,4.2,full_time,True
+507,NW-ENG-0507,Trinity,Engineering,DevOps Engineer,Lead,8068,2019-01-11,2023-02-15,Montevideo,UY,3.6,contractor,False
+508,NW-HR-0508,Nebula-508,HR,HR Generalist,Mid,3513,2017-12-07,,Lima,PE,3.3,full_time,True
+509,NW-FIN-0509,Nebula-509,Finance,Financial Analyst,Lead,6668,2018-06-10,,Buenos Aires,AR,4.3,contractor,True
+510,NW-HR-0510,Nebula-510,HR,HR Generalist,Junior,2090,2019-09-01,,Bogotá,CO,3.0,contractor,True
+511,NW-DAT-0511,Nebula-511,Data,Data Engineer,Junior,2122,2020-06-21,,Santiago,CL,4.7,full_time,True
+512,NW-DAT-0512,Atlas,Data,Data Analyst,Senior,5532,2020-05-16,,Montevideo,UY,4.7,contractor,True
+513,NW-DAT-0513,Ryu,Data,Data Analyst,Mid,3843,2019-03-18,,Bogotá,CO,4.5,contractor,True
+514,NW-FIN-0514,Nebula-514,Finance,Financial Analyst,Senior,5821,2018-01-23,,Montevideo,UY,3.4,full_time,True
+515,NW-SAL-0515,Nebula-515,Sales,Sales Manager,Junior,2208,2020-10-14,,Montevideo,UY,4.3,full_time,True
+516,NW-HR-0516,Nebula-516,HR,HR Manager,Mid,2974,2023-03-27,,Buenos Aires,AR,2.9,full_time,True
+517,NW-SAL-0517,Nebula-517,Sales,Sales Manager,Junior,2036,2024-09-16,,Bogotá,CO,4.2,full_time,True
+518,NW-DAT-0518,Atlas,Data,Data Analyst,Mid,2911,2025-04-16,,Bogotá,CO,2.6,contractor,True
+519,NW-ENG-0519,Vega,Engineering,Frontend Developer,Junior,2237,2021-06-04,,Buenos Aires,AR,2.9,full_time,True
+520,NW-ENG-0520,Nebula-520,Engineering,DevOps Engineer,Junior,1851,2014-06-27,,Lima,PE,4.7,full_time,True
+521,NW-HR-0521,Vega,HR,HR Manager,Senior,4536,2025-06-13,,Bogotá,CO,2.9,full_time,True
+522,NW-SAL-0522,Nebula-522,Sales,Sales Manager,Lead,6717,2026-01-12,,Lima,PE,3.0,contractor,True
+523,NW-DAT-0523,Nebula-523,Data,Data Engineer,Junior,2231,2018-08-01,2020-10-16,Lima,PE,4.2,contractor,False
+524,NW-HR-0524,Hera,HR,HR Generalist,Senior,6456,2014-06-05,,Lima,PE,3.1,contractor,True
+525,NW-HR-0525,Nebula-525,HR,HR Manager,Mid,3316,2025-11-11,,Bogotá,CO,4.9,contractor,True
+526,NW-FIN-0526,Atlas,Finance,Financial Analyst,Lead,8475,2024-05-18,,Santiago,CL,4.9,contractor,True
+527,NW-SAL-0527,Athena,Sales,Sales Manager,Junior,2263,2021-08-26,,Montevideo,UY,2.8,full_time,True
+528,NW-SAL-0528,Ryu,Sales,Account Executive,Junior,2429,2022-05-21,,Buenos Aires,AR,4.6,contractor,True
+529,NW-SAL-0529,Nebula-529,Sales,Sales Manager,Senior,4883,2024-06-16,,Montevideo,UY,4.7,full_time,True
+530,NW-HR-0530,Goku,HR,HR Generalist,Senior,5458,2019-02-18,2021-04-12,Lima,PE,3.6,contractor,False
+531,NW-ENG-0531,Nebula-531,Engineering,Backend Developer,Senior,5654,2016-06-29,,Bogotá,CO,3.4,full_time,True
+532,NW-ENG-0532,Goku,Engineering,DevOps Engineer,Lead,7683,2021-10-23,,Lima,PE,4.3,contractor,True
+533,NW-DAT-0533,Nebula-533,Data,Data Engineer,Mid,3464,2018-11-03,,Lima,PE,2.5,contractor,True
+534,NW-SAL-0534,Nebula-534,Sales,Sales Manager,Junior,2225,2022-08-12,2026-07-03,Bogotá,CO,3.3,contractor,False
+535,NW-ENG-0535,Goku,Engineering,DevOps Engineer,Senior,5940,2025-10-10,,Bogotá,CO,3.9,full_time,True
+536,NW-SAL-0536,Nebula-536,Sales,Sales Manager,Senior,5836,2025-12-13,2031-11-25,Santiago,CL,4.0,full_time,False
+537,NW-HR-0537,Nebula-537,HR,HR Manager,Mid,3388,2025-11-08,,Buenos Aires,AR,2.7,full_time,True
+538,NW-DAT-0538,Atlas,Data,Data Engineer,Senior,5774,2014-11-24,,Santiago,CL,2.6,contractor,True
+539,NW-ENG-0539,Atlas,Engineering,Backend Developer,Lead,6658,2022-04-20,,Montevideo,UY,4.5,full_time,True
+540,NW-SAL-0540,Nebula-540,Sales,Account Executive,Senior,5621,2020-01-10,,Lima,PE,4.2,contractor,True
+541,NW-DAT-0541,Nebula-541,Data,Data Engineer,Mid,3916,2017-09-30,2020-09-18,Lima,PE,4.5,full_time,False
+542,NW-FIN-0542,Goku,Finance,Financial Analyst,Junior,2551,2023-07-31,,Lima,PE,3.7,full_time,True
+543,NW-ENG-0543,Apollo,Engineering,Backend Developer,Lead,8396,2020-12-17,,Bogotá,CO,3.0,full_time,True
+544,NW-DAT-0544,Athena,Data,Data Analyst,Junior,1967,2020-01-02,,Bogotá,CO,3.0,contractor,True
+545,NW-FIN-0545,Nebula-545,Finance,Financial Analyst,Senior,6332,2021-10-05,2025-11-16,Santiago,CL,3.2,contractor,False
+546,NW-SAL-0546,Nebula-546,Sales,Account Executive,Junior,2459,2020-05-28,,Santiago,CL,3.2,contractor,True
+547,NW-DAT-0547,Nebula-547,Data,Data Analyst,Mid,3239,2018-08-06,2020-02-13,Buenos Aires,AR,3.2,contractor,False
+548,NW-ENG-0548,Nebula-548,Engineering,DevOps Engineer,Lead,7362,2019-03-07,,Montevideo,UY,4.5,contractor,True
+549,NW-FIN-0549,Nebula-549,Finance,Financial Analyst,Mid,3110,2014-01-23,,Santiago,CL,3.3,full_time,True
+550,NW-HR-0550,Athena,HR,HR Manager,Senior,6290,2024-02-19,,Santiago,CL,4.5,full_time,True
+551,NW-SAL-0551,Trinity,Sales,Account Executive,Lead,7429,2019-11-13,,Santiago,CL,2.6,full_time,True
+552,NW-HR-0552,Nebula-552,HR,HR Generalist,Mid,3982,2018-10-18,,Buenos Aires,AR,4.4,contractor,True
+553,NW-HR-0553,Vega,HR,HR Generalist,Senior,6354,2023-09-12,,Montevideo,UY,4.2,full_time,True
+554,NW-ENG-0554,Nebula-554,Engineering,DevOps Engineer,Junior,2268,2021-04-21,,Bogotá,CO,4.2,contractor,True
+555,NW-SAL-0555,Nebula-555,Sales,Account Executive,Lead,8024,2016-07-24,,Buenos Aires,AR,2.7,contractor,True
+556,NW-SAL-0556,Nebula-556,Sales,Sales Manager,Mid,2993,2017-02-12,,Buenos Aires,AR,3.1,full_time,True
+557,NW-HR-0557,Trinity,HR,HR Generalist,Junior,2027,2015-03-28,,Montevideo,UY,4.2,contractor,True
+558,NW-DAT-0558,Ryu,Data,Data Analyst,Junior,1889,2018-05-08,2024-06-27,Lima,PE,2.7,contractor,False
+559,NW-HR-0559,Athena,HR,HR Generalist,Mid,3654,2017-12-19,,Santiago,CL,3.5,full_time,True
+560,NW-ENG-0560,Nebula-560,Engineering,DevOps Engineer,Senior,5900,2015-11-10,,Santiago,CL,2.8,contractor,True
+561,NW-HR-0561,Goku,HR,HR Generalist,Lead,7337,2021-08-24,,Santiago,CL,4.5,contractor,True
+562,NW-FIN-0562,Neo,Finance,Financial Analyst,Lead,8401,2020-08-08,,Buenos Aires,AR,3.6,full_time,True
+563,NW-SAL-0563,Ryu,Sales,Account Executive,Senior,4553,2017-04-01,,Lima,PE,4.3,contractor,True
+564,NW-DAT-0564,Nebula-564,Data,Data Analyst,Mid,4186,2025-03-31,,Santiago,CL,4.9,full_time,True
+565,NW-DAT-0565,Atlas,Data,Data Analyst,Junior,2105,2021-10-15,,Buenos Aires,AR,4.1,contractor,True
+566,NW-HR-0566,Nebula-566,HR,HR Manager,Senior,4993,2017-10-06,2023-10-09,Montevideo,UY,4.1,contractor,False
+567,NW-FIN-0567,Loki,Finance,Financial Analyst,Mid,3394,2015-10-04,,Lima,PE,3.3,contractor,True
+568,NW-HR-0568,Apollo,HR,HR Generalist,Lead,8481,2025-08-19,,Buenos Aires,AR,4.6,full_time,True
+569,NW-ENG-0569,Nebula-569,Engineering,Backend Developer,Mid,3295,2024-07-04,,Buenos Aires,AR,4.1,full_time,True
+570,NW-DAT-0570,Nebula-570,Data,Data Analyst,Lead,7763,2025-12-20,,Bogotá,CO,3.8,contractor,True
+571,NW-ENG-0571,Apollo,Engineering,Frontend Developer,Senior,4500,2017-05-13,,Buenos Aires,AR,3.3,contractor,True
+572,NW-ENG-0572,Nebula-572,Engineering,Backend Developer,Junior,2484,2025-07-01,,Bogotá,CO,2.6,contractor,True
+573,NW-FIN-0573,Neo,Finance,Financial Analyst,Senior,5932,2017-08-21,,Bogotá,CO,3.1,contractor,True
+574,NW-SAL-0574,Nebula-574,Sales,Account Executive,Lead,7678,2021-08-12,,Bogotá,CO,4.7,full_time,True
+575,NW-SAL-0575,Ryu,Sales,Sales Manager,Senior,6436,2014-12-13,,Buenos Aires,AR,4.4,full_time,True
+576,NW-SAL-0576,Hera,Sales,Account Executive,Junior,2411,2025-07-04,,Lima,PE,3.5,contractor,True
+577,NW-ENG-0577,Nebula-577,Engineering,Frontend Developer,Lead,8030,2019-02-27,,Montevideo,UY,3.3,contractor,True
+578,NW-SAL-0578,Trinity,Sales,Account Executive,Mid,3912,2024-09-28,2026-12-30,Lima,PE,2.9,full_time,False
+579,NW-ENG-0579,Nebula-579,Engineering,Backend Developer,Mid,3733,2023-02-11,,Lima,PE,4.0,full_time,True
+580,NW-FIN-0580,Nebula-580,Finance,Financial Analyst,Lead,7185,2019-06-01,,Montevideo,UY,4.3,full_time,True
+581,NW-SAL-0581,Apollo,Sales,Sales Manager,Lead,6953,2017-06-20,,Bogotá,CO,3.0,full_time,True
+582,NW-FIN-0582,Nebula-582,Finance,Financial Analyst,Lead,6507,2016-02-19,,Buenos Aires,AR,3.1,contractor,True
+583,NW-FIN-0583,Loki,Finance,Financial Analyst,Lead,7152,2024-10-14,2028-02-04,Bogotá,CO,2.7,full_time,False
+584,NW-HR-0584,Neo,HR,HR Generalist,Junior,2214,2014-01-17,2018-09-05,Santiago,CL,4.4,contractor,False
+585,NW-SAL-0585,Nebula-585,Sales,Account Executive,Lead,8325,2019-09-05,,Lima,PE,4.7,contractor,True
+586,NW-SAL-0586,Nebula-586,Sales,Sales Manager,Lead,8305,2015-10-25,,Montevideo,UY,4.4,contractor,True
+587,NW-SAL-0587,Nebula-587,Sales,Sales Manager,Lead,7158,2020-02-15,,Santiago,CL,2.7,full_time,True
+588,NW-HR-0588,Trinity,HR,HR Manager,Senior,6068,2016-10-09,,Lima,PE,3.4,contractor,True
+589,NW-HR-0589,Nebula-589,HR,HR Generalist,Lead,6929,2015-02-14,,Lima,PE,3.4,contractor,True
+590,NW-DAT-0590,Trinity,Data,Data Engineer,Senior,5172,2015-07-27,,Bogotá,CO,3.0,full_time,True
+591,NW-SAL-0591,Neo,Sales,Account Executive,Mid,2992,2019-06-22,,Montevideo,UY,3.6,full_time,True
+592,NW-ENG-0592,Nebula-592,Engineering,Frontend Developer,Junior,2289,2023-09-06,,Lima,PE,3.5,contractor,True
+593,NW-ENG-0593,Ryu,Engineering,Frontend Developer,Mid,3053,2019-03-14,2020-06-19,Bogotá,CO,4.7,contractor,False
+594,NW-SAL-0594,Nebula-594,Sales,Account Executive,Lead,8304,2015-11-04,2017-08-27,Santiago,CL,4.1,full_time,False
+595,NW-ENG-0595,Hera,Engineering,Frontend Developer,Senior,5399,2024-02-14,,Lima,PE,2.9,full_time,True
+596,NW-ENG-0596,Neo,Engineering,Backend Developer,Mid,3526,2018-02-19,2019-10-07,Lima,PE,2.6,full_time,False
+597,NW-HR-0597,Trinity,HR,HR Manager,Mid,4002,2014-09-25,,Buenos Aires,AR,3.5,contractor,True
+598,NW-FIN-0598,Loki,Finance,Financial Analyst,Lead,8345,2023-10-15,,Bogotá,CO,2.9,contractor,True
+599,NW-FIN-0599,Nebula-599,Finance,Financial Analyst,Junior,1976,2024-08-21,,Buenos Aires,AR,4.5,contractor,True
+600,NW-DAT-0600,Trinity,Data,Data Engineer,Senior,6369,2021-11-06,,Lima,PE,4.5,full_time,True
+601,NW-HR-0601,Nebula-601,HR,HR Generalist,Junior,2052,2016-09-13,,Bogotá,CO,3.3,contractor,True
+602,NW-FIN-0602,Loki,Finance,Financial Analyst,Senior,6092,2021-12-06,2024-10-24,Lima,PE,3.0,full_time,False
+603,NW-SAL-0603,Ryu,Sales,Sales Manager,Mid,3000,2021-05-25,,Montevideo,UY,4.0,full_time,True
+604,NW-SAL-0604,Ryu,Sales,Sales Manager,Junior,2544,2015-07-23,,Lima,PE,4.8,contractor,True
+605,NW-DAT-0605,Nebula-605,Data,Data Engineer,Junior,2126,2025-03-09,2025-11-29,Buenos Aires,AR,3.1,contractor,False
+606,NW-FIN-0606,Nebula-606,Finance,Financial Analyst,Junior,1982,2018-05-25,,Lima,PE,3.9,full_time,True
+607,NW-FIN-0607,Loki,Finance,Financial Analyst,Mid,3281,2020-07-21,2024-02-19,Buenos Aires,AR,4.3,full_time,False
+608,NW-ENG-0608,Nebula-608,Engineering,Frontend Developer,Lead,6830,2025-05-20,,Lima,PE,3.7,contractor,True
+609,NW-FIN-0609,Atlas,Finance,Financial Analyst,Mid,3468,2023-01-03,,Lima,PE,3.0,full_time,True
+610,NW-ENG-0610,Goku,Engineering,Frontend Developer,Lead,8252,2021-12-21,2027-01-04,Lima,PE,4.0,contractor,False
+611,NW-ENG-0611,Nebula-611,Engineering,Frontend Developer,Lead,7204,2019-08-30,,Santiago,CL,2.6,full_time,True
+612,NW-ENG-0612,Trinity,Engineering,DevOps Engineer,Mid,3451,2026-02-16,,Bogotá,CO,2.8,full_time,True
+613,NW-HR-0613,Apollo,HR,HR Manager,Junior,1930,2020-09-02,,Bogotá,CO,3.5,contractor,True
+614,NW-FIN-0614,Ryu,Finance,Financial Analyst,Junior,2375,2017-06-14,,Bogotá,CO,4.4,contractor,True
+615,NW-DAT-0615,Nebula-615,Data,Data Analyst,Junior,1973,2025-10-27,2026-05-18,Santiago,CL,4.9,contractor,False
+616,NW-FIN-0616,Nebula-616,Finance,Financial Analyst,Senior,4985,2020-12-01,,Lima,PE,4.6,full_time,True
+617,NW-SAL-0617,Loki,Sales,Sales Manager,Junior,2531,2025-04-06,,Montevideo,UY,3.2,full_time,True
+618,NW-ENG-0618,Apollo,Engineering,Backend Developer,Junior,2087,2018-04-01,,Bogotá,CO,4.3,contractor,True
+619,NW-ENG-0619,Goku,Engineering,Backend Developer,Senior,5798,2023-05-27,,Lima,PE,2.9,contractor,True
+620,NW-SAL-0620,Nebula-620,Sales,Sales Manager,Junior,2380,2025-04-05,,Montevideo,UY,4.1,contractor,True
+621,NW-ENG-0621,Vega,Engineering,DevOps Engineer,Mid,3508,2021-07-12,,Buenos Aires,AR,4.8,contractor,True
+622,NW-ENG-0622,Loki,Engineering,DevOps Engineer,Mid,3099,2025-07-30,,Santiago,CL,3.1,full_time,True
+623,NW-DAT-0623,Nebula-623,Data,Data Engineer,Junior,2276,2025-10-27,2029-10-21,Lima,PE,3.0,contractor,False
+624,NW-FIN-0624,Nebula-624,Finance,Financial Analyst,Mid,3134,2020-11-23,,Buenos Aires,AR,4.0,full_time,True
+625,NW-DAT-0625,Nebula-625,Data,Data Analyst,Junior,2567,2016-02-24,,Lima,PE,3.9,full_time,True
+626,NW-DAT-0626,Trinity,Data,Data Engineer,Mid,3503,2019-03-03,2021-06-05,Bogotá,CO,3.0,contractor,False
+627,NW-FIN-0627,Goku,Finance,Financial Analyst,Junior,2110,2019-04-23,,Santiago,CL,4.9,full_time,True
+628,NW-FIN-0628,Nebula-628,Finance,Financial Analyst,Senior,4833,2021-08-31,2025-07-04,Lima,PE,3.3,full_time,False
+629,NW-HR-0629,Nebula-629,HR,HR Generalist,Junior,1965,2024-06-12,,Montevideo,UY,3.8,full_time,True
+630,NW-FIN-0630,Nebula-630,Finance,Financial Analyst,Mid,3491,2024-06-21,,Lima,PE,2.9,full_time,True
+631,NW-FIN-0631,Loki,Finance,Financial Analyst,Junior,2320,2017-03-05,,Buenos Aires,AR,4.4,full_time,True
+632,NW-DAT-0632,Hera,Data,Data Engineer,Junior,1901,2026-01-29,2029-07-20,Lima,PE,3.7,full_time,False
+633,NW-SAL-0633,Nebula-633,Sales,Sales Manager,Mid,2845,2014-06-24,,Buenos Aires,AR,3.8,full_time,True
+634,NW-SAL-0634,Nebula-634,Sales,Account Executive,Lead,7485,2025-10-19,,Bogotá,CO,3.4,contractor,True
+635,NW-DAT-0635,Nebula-635,Data,Data Engineer,Senior,4883,2016-12-29,2019-12-23,Buenos Aires,AR,2.9,contractor,False
+636,NW-SAL-0636,Goku,Sales,Account Executive,Mid,3288,2018-08-07,,Lima,PE,3.1,contractor,True
+637,NW-HR-0637,Apollo,HR,HR Manager,Mid,3595,2025-08-14,,Bogotá,CO,3.4,full_time,True
+638,NW-HR-0638,Vega,HR,HR Manager,Senior,5849,2021-10-24,,Buenos Aires,AR,4.2,contractor,True
+639,NW-ENG-0639,Trinity,Engineering,Backend Developer,Mid,3911,2015-11-08,,Montevideo,UY,3.8,full_time,True
+640,NW-SAL-0640,Nebula-640,Sales,Sales Manager,Senior,4778,2020-01-10,,Bogotá,CO,2.7,full_time,True
+641,NW-SAL-0641,Nebula-641,Sales,Account Executive,Lead,7514,2016-10-20,,Santiago,CL,3.6,full_time,True
+642,NW-HR-0642,Nebula-642,HR,HR Manager,Senior,5042,2020-09-24,,Buenos Aires,AR,3.6,contractor,True
+643,NW-ENG-0643,Ryu,Engineering,Backend Developer,Junior,2544,2019-08-20,,Montevideo,UY,2.6,full_time,True
+644,NW-SAL-0644,Athena,Sales,Sales Manager,Mid,4046,2015-08-06,,Buenos Aires,AR,3.1,full_time,True
+645,NW-FIN-0645,Atlas,Finance,Financial Analyst,Mid,3643,2019-05-21,2020-03-29,Buenos Aires,AR,4.8,contractor,False
+646,NW-DAT-0646,Nebula-646,Data,Data Engineer,Junior,2434,2019-09-17,,Bogotá,CO,4.5,contractor,True
+647,NW-ENG-0647,Nebula-647,Engineering,Backend Developer,Junior,1925,2025-11-18,2031-07-04,Lima,PE,4.4,full_time,False
+648,NW-FIN-0648,Athena,Finance,Financial Analyst,Senior,5828,2025-09-06,,Buenos Aires,AR,2.6,contractor,True
+649,NW-FIN-0649,Loki,Finance,Financial Analyst,Senior,6229,2014-06-17,,Bogotá,CO,4.4,full_time,True
+650,NW-FIN-0650,Nebula-650,Finance,Financial Analyst,Lead,8200,2016-06-15,,Bogotá,CO,4.5,full_time,True
+651,NW-HR-0651,Neo,HR,HR Manager,Lead,8487,2021-07-08,,Buenos Aires,AR,2.7,full_time,True
+652,NW-FIN-0652,Nebula-652,Finance,Financial Analyst,Lead,7093,2017-12-01,,Lima,PE,3.0,full_time,True
+653,NW-DAT-0653,Loki,Data,Data Analyst,Mid,4009,2024-09-26,,Santiago,CL,3.5,contractor,True
+654,NW-DAT-0654,Vega,Data,Data Engineer,Lead,7311,2017-10-30,,Montevideo,UY,4.3,full_time,True
+655,NW-FIN-0655,Nebula-655,Finance,Financial Analyst,Senior,5476,2025-08-10,,Santiago,CL,4.1,contractor,True
+656,NW-ENG-0656,Nebula-656,Engineering,DevOps Engineer,Senior,6449,2017-05-26,2022-03-29,Buenos Aires,AR,2.5,full_time,False
+657,NW-HR-0657,Athena,HR,HR Manager,Mid,2803,2017-01-04,2021-05-11,Montevideo,UY,2.9,full_time,False
+658,NW-ENG-0658,Nebula-658,Engineering,DevOps Engineer,Senior,5333,2024-10-27,,Lima,PE,3.4,full_time,True
+659,NW-ENG-0659,Nebula-659,Engineering,Frontend Developer,Lead,7089,2015-05-29,,Montevideo,UY,2.7,contractor,True
+660,NW-DAT-0660,Nebula-660,Data,Data Analyst,Junior,2404,2019-12-26,,Santiago,CL,3.6,full_time,True
+661,NW-ENG-0661,Nebula-661,Engineering,DevOps Engineer,Senior,6080,2019-05-21,,Buenos Aires,AR,3.5,contractor,True
+662,NW-SAL-0662,Loki,Sales,Sales Manager,Lead,6871,2021-06-09,,Montevideo,UY,2.6,contractor,True
+663,NW-ENG-0663,Neo,Engineering,Frontend Developer,Senior,5159,2021-04-30,,Bogotá,CO,3.4,full_time,True
+664,NW-HR-0664,Nebula-664,HR,HR Manager,Senior,5985,2023-12-07,,Montevideo,UY,4.0,contractor,True
+665,NW-FIN-0665,Nebula-665,Finance,Financial Analyst,Mid,2953,2025-10-07,,Bogotá,CO,2.6,contractor,True
+666,NW-DAT-0666,Apollo,Data,Data Engineer,Mid,3960,2018-02-02,,Montevideo,UY,3.7,contractor,True
+667,NW-HR-0667,Nebula-667,HR,HR Manager,Lead,7372,2017-06-18,2021-03-10,Buenos Aires,AR,4.8,full_time,False
+668,NW-ENG-0668,Loki,Engineering,Backend Developer,Senior,4711,2018-01-11,2021-11-04,Bogotá,CO,4.5,contractor,False
+669,NW-HR-0669,Nebula-669,HR,HR Manager,Junior,1804,2022-07-08,,Lima,PE,4.0,contractor,True
+670,NW-DAT-0670,Goku,Data,Data Analyst,Senior,6192,2018-06-15,2024-07-28,Buenos Aires,AR,4.2,full_time,False
+671,NW-FIN-0671,Nebula-671,Finance,Financial Analyst,Junior,1836,2023-05-21,,Buenos Aires,AR,4.5,full_time,True
+672,NW-HR-0672,Nebula-672,HR,HR Generalist,Mid,4086,2015-04-11,,Lima,PE,2.8,contractor,True
+673,NW-SAL-0673,Nebula-673,Sales,Sales Manager,Mid,3870,2021-11-24,,Santiago,CL,4.9,full_time,True
+674,NW-DAT-0674,Vega,Data,Data Analyst,Junior,2351,2025-09-13,,Buenos Aires,AR,3.0,full_time,True
+675,NW-SAL-0675,Apollo,Sales,Account Executive,Junior,1874,2019-05-17,,Montevideo,UY,4.7,full_time,True
+676,NW-HR-0676,Nebula-676,HR,HR Manager,Mid,3178,2017-05-27,2021-10-22,Lima,PE,3.1,full_time,False
+677,NW-SAL-0677,Athena,Sales,Sales Manager,Lead,8329,2021-10-21,,Santiago,CL,3.8,contractor,True
+678,NW-SAL-0678,Atlas,Sales,Account Executive,Mid,3290,2015-04-04,,Bogotá,CO,2.5,contractor,True
+679,NW-SAL-0679,Loki,Sales,Account Executive,Senior,4632,2015-08-12,,Lima,PE,2.7,full_time,True
+680,NW-DAT-0680,Goku,Data,Data Analyst,Mid,3768,2020-10-11,,Santiago,CL,4.5,full_time,True
+681,NW-DAT-0681,Vega,Data,Data Engineer,Junior,1930,2017-09-25,,Buenos Aires,AR,4.6,contractor,True
+682,NW-DAT-0682,Nebula-682,Data,Data Analyst,Lead,6662,2018-10-28,,Buenos Aires,AR,3.9,full_time,True
+683,NW-FIN-0683,Nebula-683,Finance,Financial Analyst,Senior,5397,2022-06-11,,Bogotá,CO,2.9,contractor,True
+684,NW-FIN-0684,Trinity,Finance,Financial Analyst,Senior,4948,2015-12-21,,Buenos Aires,AR,3.7,contractor,True
+685,NW-FIN-0685,Nebula-685,Finance,Financial Analyst,Senior,6420,2023-05-31,,Bogotá,CO,2.9,full_time,True
+686,NW-ENG-0686,Apollo,Engineering,Frontend Developer,Junior,2180,2022-01-20,2025-03-30,Buenos Aires,AR,4.1,full_time,False
+687,NW-FIN-0687,Vega,Finance,Financial Analyst,Senior,4515,2019-01-18,,Montevideo,UY,4.1,full_time,True
+688,NW-SAL-0688,Vega,Sales,Sales Manager,Senior,6087,2019-09-25,,Santiago,CL,3.8,full_time,True
+689,NW-SAL-0689,Neo,Sales,Sales Manager,Mid,3443,2014-07-05,,Buenos Aires,AR,2.6,contractor,True
+690,NW-FIN-0690,Goku,Finance,Financial Analyst,Senior,5907,2017-11-04,,Montevideo,UY,3.2,contractor,True
+691,NW-ENG-0691,Nebula-691,Engineering,DevOps Engineer,Mid,2989,2025-07-19,,Montevideo,UY,4.8,contractor,True
+692,NW-FIN-0692,Nebula-692,Finance,Financial Analyst,Junior,2531,2020-04-28,,Santiago,CL,3.5,full_time,True
+693,NW-DAT-0693,Nebula-693,Data,Data Analyst,Senior,6445,2024-12-30,,Buenos Aires,AR,3.2,contractor,True
+694,NW-DAT-0694,Loki,Data,Data Analyst,Senior,4629,2023-06-07,2026-01-01,Montevideo,UY,2.7,contractor,False
+695,NW-FIN-0695,Vega,Finance,Financial Analyst,Junior,2223,2021-12-02,,Bogotá,CO,2.9,contractor,True
+696,NW-DAT-0696,Nebula-696,Data,Data Engineer,Lead,7958,2015-08-06,2019-08-08,Santiago,CL,3.0,full_time,False
+697,NW-ENG-0697,Loki,Engineering,Backend Developer,Mid,3913,2020-03-24,,Santiago,CL,4.1,contractor,True
+698,NW-SAL-0698,Neo,Sales,Account Executive,Junior,2142,2024-06-08,,Bogotá,CO,3.7,full_time,True
+699,NW-FIN-0699,Nebula-699,Finance,Financial Analyst,Junior,2509,2025-11-29,,Bogotá,CO,3.0,full_time,True
+700,NW-DAT-0700,Loki,Data,Data Engineer,Junior,2572,2021-10-14,2024-02-27,Santiago,CL,2.7,contractor,False
+701,NW-ENG-0701,Nebula-701,Engineering,Backend Developer,Mid,3425,2018-03-09,2024-02-15,Buenos Aires,AR,2.8,full_time,False
+702,NW-FIN-0702,Vega,Finance,Financial Analyst,Mid,4169,2017-08-21,,Buenos Aires,AR,3.5,contractor,True
+703,NW-HR-0703,Neo,HR,HR Generalist,Mid,3009,2021-09-24,,Montevideo,UY,3.2,contractor,True
+704,NW-DAT-0704,Nebula-704,Data,Data Analyst,Mid,3305,2026-02-14,2029-01-17,Buenos Aires,AR,4.0,contractor,False
+705,NW-HR-0705,Ryu,HR,HR Manager,Lead,7146,2019-04-20,2020-05-21,Lima,PE,5.0,full_time,False
+706,NW-DAT-0706,Nebula-706,Data,Data Engineer,Junior,2425,2018-05-13,,Bogotá,CO,4.9,contractor,True
+707,NW-DAT-0707,Trinity,Data,Data Analyst,Junior,2261,2018-11-27,,Montevideo,UY,2.7,full_time,True
+708,NW-FIN-0708,Loki,Finance,Financial Analyst,Junior,2491,2017-08-15,,Santiago,CL,3.0,full_time,True
+709,NW-DAT-0709,Loki,Data,Data Analyst,Mid,3005,2021-02-05,,Montevideo,UY,4.1,contractor,True
+710,NW-ENG-0710,Trinity,Engineering,Backend Developer,Junior,2445,2014-09-29,2019-08-31,Santiago,CL,4.3,contractor,False
+711,NW-SAL-0711,Nebula-711,Sales,Sales Manager,Junior,2318,2014-09-04,,Santiago,CL,3.6,full_time,True
+712,NW-FIN-0712,Nebula-712,Finance,Financial Analyst,Lead,7356,2014-11-01,,Lima,PE,3.1,contractor,True
+713,NW-SAL-0713,Atlas,Sales,Account Executive,Senior,5250,2018-05-09,,Buenos Aires,AR,3.1,full_time,True
+714,NW-SAL-0714,Nebula-714,Sales,Sales Manager,Senior,6305,2014-05-18,,Santiago,CL,3.9,full_time,True
+715,NW-FIN-0715,Nebula-715,Finance,Financial Analyst,Junior,2518,2017-12-04,,Santiago,CL,4.3,full_time,True
+716,NW-ENG-0716,Vega,Engineering,Frontend Developer,Junior,2175,2016-02-21,,Buenos Aires,AR,3.1,full_time,True
+717,NW-DAT-0717,Athena,Data,Data Engineer,Lead,6539,2019-10-08,,Bogotá,CO,3.3,full_time,True
+718,NW-ENG-0718,Nebula-718,Engineering,Backend Developer,Junior,1993,2014-10-28,,Lima,PE,5.0,full_time,True
+719,NW-SAL-0719,Nebula-719,Sales,Account Executive,Lead,7842,2017-12-07,,Santiago,CL,4.2,full_time,True
+720,NW-ENG-0720,Loki,Engineering,DevOps Engineer,Senior,6487,2025-03-31,,Bogotá,CO,3.9,contractor,True
+721,NW-HR-0721,Athena,HR,HR Generalist,Senior,6108,2021-04-18,,Buenos Aires,AR,4.4,contractor,True
+722,NW-HR-0722,Nebula-722,HR,HR Manager,Mid,4011,2022-06-18,,Bogotá,CO,3.0,full_time,True
+723,NW-DAT-0723,Nebula-723,Data,Data Analyst,Lead,7835,2015-08-17,,Lima,PE,4.3,contractor,True
+724,NW-FIN-0724,Trinity,Finance,Financial Analyst,Senior,5694,2023-04-29,,Buenos Aires,AR,4.8,contractor,True
+725,NW-ENG-0725,Nebula-725,Engineering,Frontend Developer,Junior,1980,2021-02-06,,Lima,PE,4.0,full_time,True
+726,NW-ENG-0726,Nebula-726,Engineering,DevOps Engineer,Lead,8267,2017-09-24,,Buenos Aires,AR,3.9,full_time,True
+727,NW-DAT-0727,Vega,Data,Data Analyst,Senior,6250,2016-08-18,,Montevideo,UY,4.5,full_time,True
+728,NW-DAT-0728,Nebula-728,Data,Data Engineer,Senior,6447,2021-05-10,,Santiago,CL,3.8,contractor,True
+729,NW-FIN-0729,Nebula-729,Finance,Financial Analyst,Lead,7232,2021-07-11,,Montevideo,UY,4.0,full_time,True
+730,NW-FIN-0730,Nebula-730,Finance,Financial Analyst,Senior,6052,2016-03-14,,Montevideo,UY,3.6,full_time,True
+731,NW-DAT-0731,Nebula-731,Data,Data Analyst,Junior,1821,2021-08-17,,Bogotá,CO,2.9,full_time,True
+732,NW-ENG-0732,Loki,Engineering,Frontend Developer,Lead,6520,2016-06-01,2017-06-24,Bogotá,CO,2.7,full_time,False
+733,NW-SAL-0733,Nebula-733,Sales,Sales Manager,Senior,5255,2025-01-22,,Bogotá,CO,4.5,full_time,True
+734,NW-FIN-0734,Neo,Finance,Financial Analyst,Mid,3506,2023-07-10,,Lima,PE,4.5,full_time,True
+735,NW-HR-0735,Nebula-735,HR,HR Manager,Junior,2170,2025-01-01,,Buenos Aires,AR,3.7,full_time,True
+736,NW-FIN-0736,Nebula-736,Finance,Financial Analyst,Junior,1803,2018-09-06,2024-12-21,Lima,PE,4.6,contractor,False
+737,NW-SAL-0737,Loki,Sales,Account Executive,Junior,2423,2018-05-29,,Santiago,CL,3.0,full_time,True
+738,NW-FIN-0738,Ryu,Finance,Financial Analyst,Junior,1900,2025-01-04,,Santiago,CL,3.2,full_time,True
+739,NW-ENG-0739,Loki,Engineering,Backend Developer,Mid,3179,2017-06-26,,Santiago,CL,3.4,contractor,True
+740,NW-FIN-0740,Apollo,Finance,Financial Analyst,Lead,8283,2019-03-30,,Bogotá,CO,3.1,contractor,True
+741,NW-ENG-0741,Neo,Engineering,DevOps Engineer,Senior,5306,2025-01-23,2026-07-15,Montevideo,UY,4.5,full_time,False
+742,NW-HR-0742,Nebula-742,HR,HR Manager,Mid,2811,2014-03-13,,Santiago,CL,3.6,full_time,True
+743,NW-ENG-0743,Nebula-743,Engineering,Frontend Developer,Mid,2826,2017-10-02,,Santiago,CL,3.2,contractor,True
+744,NW-HR-0744,Nebula-744,HR,HR Generalist,Senior,4565,2014-07-15,,Lima,PE,2.8,contractor,True
+745,NW-SAL-0745,Nebula-745,Sales,Sales Manager,Lead,7365,2023-06-09,,Lima,PE,3.8,full_time,True
+746,NW-HR-0746,Nebula-746,HR,HR Manager,Junior,1811,2018-07-12,,Montevideo,UY,3.3,contractor,True
+747,NW-FIN-0747,Apollo,Finance,Financial Analyst,Senior,5368,2022-03-17,,Bogotá,CO,2.8,contractor,True
+748,NW-HR-0748,Nebula-748,HR,HR Manager,Senior,5537,2022-11-08,,Bogotá,CO,4.8,contractor,True
+749,NW-FIN-0749,Nebula-749,Finance,Financial Analyst,Senior,4758,2018-07-30,,Santiago,CL,4.2,full_time,True
+750,NW-HR-0750,Hera,HR,HR Manager,Junior,2053,2025-04-20,,Santiago,CL,2.8,full_time,True
+751,NW-DAT-0751,Ryu,Data,Data Engineer,Lead,6562,2023-12-26,,Buenos Aires,AR,2.9,full_time,True
+752,NW-DAT-0752,Nebula-752,Data,Data Analyst,Senior,5933,2014-06-29,,Buenos Aires,AR,4.6,full_time,True
+753,NW-SAL-0753,Nebula-753,Sales,Account Executive,Lead,8008,2023-07-25,2027-12-03,Bogotá,CO,4.2,full_time,False
+754,NW-FIN-0754,Nebula-754,Finance,Financial Analyst,Lead,7613,2016-01-15,,Montevideo,UY,4.7,full_time,True
+755,NW-ENG-0755,Vega,Engineering,DevOps Engineer,Junior,2429,2023-02-16,,Lima,PE,2.6,full_time,True
+756,NW-DAT-0756,Neo,Data,Data Engineer,Junior,2589,2024-01-17,,Lima,PE,3.6,contractor,True
+757,NW-ENG-0757,Goku,Engineering,DevOps Engineer,Mid,3162,2022-12-05,,Montevideo,UY,3.3,contractor,True
+758,NW-DAT-0758,Neo,Data,Data Engineer,Lead,8468,2020-02-16,,Montevideo,UY,3.2,contractor,True
+759,NW-FIN-0759,Nebula-759,Finance,Financial Analyst,Lead,7759,2020-08-21,,Santiago,CL,4.8,full_time,True
+760,NW-SAL-0760,Vega,Sales,Account Executive,Junior,1949,2015-03-02,,Bogotá,CO,4.7,contractor,True
+761,NW-SAL-0761,Nebula-761,Sales,Account Executive,Mid,3592,2018-09-20,,Santiago,CL,4.2,contractor,True
+762,NW-SAL-0762,Trinity,Sales,Sales Manager,Senior,6227,2024-01-22,2026-12-09,Montevideo,UY,3.9,contractor,False
+763,NW-ENG-0763,Neo,Engineering,Frontend Developer,Lead,8457,2026-01-24,,Santiago,CL,3.7,full_time,True
+764,NW-SAL-0764,Ryu,Sales,Sales Manager,Junior,2232,2022-06-26,,Lima,PE,2.6,contractor,True
+765,NW-FIN-0765,Nebula-765,Finance,Financial Analyst,Senior,4782,2016-01-15,,Bogotá,CO,3.0,full_time,True
+766,NW-ENG-0766,Trinity,Engineering,DevOps Engineer,Junior,2412,2020-07-18,,Lima,PE,3.0,full_time,True
+767,NW-HR-0767,Neo,HR,HR Generalist,Mid,3130,2025-10-09,,Bogotá,CO,2.8,contractor,True
+768,NW-HR-0768,Nebula-768,HR,HR Generalist,Junior,2080,2015-10-05,2018-06-01,Bogotá,CO,2.7,full_time,False
+769,NW-HR-0769,Nebula-769,HR,HR Manager,Mid,2846,2025-08-15,,Santiago,CL,3.7,contractor,True
+770,NW-DAT-0770,Nebula-770,Data,Data Analyst,Mid,3223,2017-09-10,,Santiago,CL,4.8,full_time,True
+771,NW-SAL-0771,Vega,Sales,Account Executive,Mid,3903,2023-03-15,,Santiago,CL,3.9,contractor,True
+772,NW-ENG-0772,Nebula-772,Engineering,Frontend Developer,Lead,6814,2019-03-15,,Montevideo,UY,3.4,full_time,True
+773,NW-ENG-0773,Goku,Engineering,Backend Developer,Senior,5330,2018-12-07,,Bogotá,CO,3.1,full_time,True
+774,NW-DAT-0774,Nebula-774,Data,Data Analyst,Lead,7759,2014-12-13,,Buenos Aires,AR,4.5,full_time,True
+775,NW-FIN-0775,Nebula-775,Finance,Financial Analyst,Lead,7620,2017-11-26,,Buenos Aires,AR,2.9,full_time,True
+776,NW-HR-0776,Nebula-776,HR,HR Manager,Senior,5314,2024-02-11,,Santiago,CL,4.8,contractor,True
+777,NW-FIN-0777,Nebula-777,Finance,Financial Analyst,Lead,7656,2023-07-17,,Buenos Aires,AR,2.7,full_time,True
+778,NW-DAT-0778,Nebula-778,Data,Data Analyst,Senior,6324,2015-11-06,,Lima,PE,4.4,contractor,True
+779,NW-DAT-0779,Hera,Data,Data Engineer,Mid,4189,2020-08-14,,Santiago,CL,4.5,full_time,True
+780,NW-SAL-0780,Nebula-780,Sales,Sales Manager,Mid,3494,2015-07-11,,Bogotá,CO,2.6,contractor,True
+781,NW-ENG-0781,Nebula-781,Engineering,DevOps Engineer,Mid,3690,2023-05-07,,Buenos Aires,AR,4.0,contractor,True
+782,NW-SAL-0782,Nebula-782,Sales,Account Executive,Senior,5159,2022-08-15,,Montevideo,UY,2.7,contractor,True
+783,NW-FIN-0783,Hera,Finance,Financial Analyst,Lead,8352,2025-12-22,2028-03-05,Santiago,CL,3.7,contractor,False
+784,NW-FIN-0784,Goku,Finance,Financial Analyst,Mid,3883,2021-12-04,,Lima,PE,4.4,full_time,True
+785,NW-HR-0785,Vega,HR,HR Manager,Senior,5051,2025-02-26,,Santiago,CL,2.9,full_time,True
+786,NW-HR-0786,Goku,HR,HR Generalist,Senior,5935,2018-01-07,,Buenos Aires,AR,4.4,full_time,True
+787,NW-DAT-0787,Atlas,Data,Data Engineer,Junior,2410,2014-06-17,,Montevideo,UY,3.9,contractor,True
+788,NW-DAT-0788,Nebula-788,Data,Data Analyst,Mid,3090,2017-01-07,2022-08-02,Montevideo,UY,3.0,contractor,False
+789,NW-ENG-0789,Nebula-789,Engineering,Backend Developer,Lead,6859,2017-05-30,,Bogotá,CO,4.9,contractor,True
+790,NW-DAT-0790,Nebula-790,Data,Data Analyst,Mid,3069,2016-03-18,,Buenos Aires,AR,3.4,full_time,True
+791,NW-HR-0791,Apollo,HR,HR Manager,Mid,3790,2017-12-17,,Montevideo,UY,4.1,contractor,True
+792,NW-ENG-0792,Neo,Engineering,Frontend Developer,Lead,6539,2016-03-30,,Montevideo,UY,3.2,full_time,True
+793,NW-FIN-0793,Loki,Finance,Financial Analyst,Lead,6940,2021-04-23,,Santiago,CL,2.7,contractor,True
+794,NW-FIN-0794,Nebula-794,Finance,Financial Analyst,Junior,2029,2023-12-22,,Santiago,CL,2.7,full_time,True
+795,NW-DAT-0795,Athena,Data,Data Engineer,Lead,7728,2016-12-25,,Montevideo,UY,3.7,contractor,True
+796,NW-SAL-0796,Nebula-796,Sales,Account Executive,Senior,5507,2020-10-09,,Montevideo,UY,4.7,full_time,True
+797,NW-SAL-0797,Nebula-797,Sales,Account Executive,Senior,6355,2025-02-04,,Santiago,CL,3.5,full_time,True
+798,NW-FIN-0798,Vega,Finance,Financial Analyst,Senior,4942,2024-01-21,,Montevideo,UY,2.7,full_time,True
+799,NW-DAT-0799,Ryu,Data,Data Analyst,Lead,6998,2020-07-28,,Montevideo,UY,4.4,contractor,True
+800,NW-FIN-0800,Ryu,Finance,Financial Analyst,Lead,6779,2016-09-15,,Montevideo,UY,4.9,contractor,True
+801,NW-HR-0801,Nebula-801,HR,HR Generalist,Lead,6742,2017-10-23,,Montevideo,UY,3.0,full_time,True
+802,NW-SAL-0802,Neo,Sales,Account Executive,Mid,3797,2017-08-29,,Santiago,CL,4.4,full_time,True
+803,NW-HR-0803,Goku,HR,HR Generalist,Senior,4770,2018-11-29,,Santiago,CL,4.8,contractor,True
+804,NW-SAL-0804,Nebula-804,Sales,Sales Manager,Lead,8165,2024-07-19,,Montevideo,UY,4.9,full_time,True
+805,NW-SAL-0805,Atlas,Sales,Account Executive,Lead,7992,2015-10-31,2017-02-23,Lima,PE,4.1,contractor,False
+806,NW-ENG-0806,Vega,Engineering,DevOps Engineer,Mid,3078,2016-01-27,,Bogotá,CO,3.7,full_time,True
+807,NW-ENG-0807,Vega,Engineering,Backend Developer,Mid,4014,2021-02-15,,Santiago,CL,3.0,contractor,True
+808,NW-DAT-0808,Nebula-808,Data,Data Analyst,Junior,2486,2021-08-05,,Bogotá,CO,4.8,contractor,True
+809,NW-SAL-0809,Ryu,Sales,Sales Manager,Mid,3374,2023-05-30,,Buenos Aires,AR,4.0,full_time,True
+810,NW-ENG-0810,Ryu,Engineering,Frontend Developer,Junior,1908,2017-10-26,,Santiago,CL,3.9,full_time,True
+811,NW-DAT-0811,Nebula-811,Data,Data Engineer,Senior,5489,2024-12-13,,Lima,PE,4.5,contractor,True
+812,NW-DAT-0812,Goku,Data,Data Engineer,Junior,2479,2021-08-28,,Bogotá,CO,4.7,contractor,True
+813,NW-FIN-0813,Nebula-813,Finance,Financial Analyst,Mid,4030,2018-06-21,,Santiago,CL,4.7,contractor,True
+814,NW-HR-0814,Nebula-814,HR,HR Generalist,Mid,3369,2017-08-19,,Bogotá,CO,2.6,contractor,True
+815,NW-SAL-0815,Ryu,Sales,Account Executive,Lead,8400,2025-03-21,,Bogotá,CO,3.0,contractor,True
+816,NW-SAL-0816,Trinity,Sales,Account Executive,Mid,3707,2025-10-20,,Lima,PE,3.5,full_time,True
+817,NW-ENG-0817,Neo,Engineering,Backend Developer,Mid,3341,2014-07-01,,Lima,PE,4.4,full_time,True
+818,NW-SAL-0818,Nebula-818,Sales,Account Executive,Lead,7738,2024-09-24,,Santiago,CL,2.8,contractor,True
+819,NW-HR-0819,Hera,HR,HR Generalist,Lead,7348,2025-06-30,,Lima,PE,2.8,full_time,True
+820,NW-FIN-0820,Nebula-820,Finance,Financial Analyst,Lead,6957,2023-10-20,,Montevideo,UY,2.6,full_time,True
+821,NW-DAT-0821,Nebula-821,Data,Data Engineer,Mid,3621,2020-04-01,,Bogotá,CO,4.9,contractor,True
+822,NW-DAT-0822,Nebula-822,Data,Data Engineer,Junior,1971,2023-06-07,,Bogotá,CO,4.9,full_time,True
+823,NW-DAT-0823,Trinity,Data,Data Engineer,Mid,3832,2014-07-04,,Lima,PE,3.6,contractor,True
+824,NW-DAT-0824,Vega,Data,Data Analyst,Mid,3309,2025-04-30,,Buenos Aires,AR,2.8,full_time,True
+825,NW-HR-0825,Hera,HR,HR Generalist,Junior,2106,2017-07-18,,Santiago,CL,3.8,full_time,True
+826,NW-FIN-0826,Nebula-826,Finance,Financial Analyst,Lead,6578,2020-09-18,,Buenos Aires,AR,4.5,full_time,True
+827,NW-DAT-0827,Apollo,Data,Data Engineer,Mid,4094,2020-12-01,,Montevideo,UY,2.5,contractor,True
+828,NW-DAT-0828,Nebula-828,Data,Data Engineer,Junior,2004,2024-03-12,,Santiago,CL,4.4,contractor,True
+829,NW-FIN-0829,Nebula-829,Finance,Financial Analyst,Junior,2570,2024-08-03,,Buenos Aires,AR,4.0,full_time,True
+830,NW-HR-0830,Athena,HR,HR Generalist,Junior,1899,2019-12-29,,Montevideo,UY,3.5,contractor,True
+831,NW-DAT-0831,Nebula-831,Data,Data Engineer,Senior,6192,2018-05-14,,Lima,PE,2.9,contractor,True
+832,NW-FIN-0832,Nebula-832,Finance,Financial Analyst,Lead,7647,2014-02-10,,Montevideo,UY,5.0,contractor,True
+833,NW-FIN-0833,Nebula-833,Finance,Financial Analyst,Mid,3154,2024-01-18,,Bogotá,CO,3.5,contractor,True
+834,NW-DAT-0834,Vega,Data,Data Analyst,Junior,2318,2024-01-03,,Bogotá,CO,4.2,full_time,True
+835,NW-HR-0835,Nebula-835,HR,HR Generalist,Senior,4636,2018-02-07,,Bogotá,CO,2.5,full_time,True
+836,NW-ENG-0836,Nebula-836,Engineering,DevOps Engineer,Mid,3977,2019-04-06,,Montevideo,UY,4.4,contractor,True
+837,NW-HR-0837,Nebula-837,HR,HR Generalist,Mid,3470,2019-05-06,2020-07-02,Bogotá,CO,4.0,contractor,False
+838,NW-SAL-0838,Goku,Sales,Account Executive,Mid,2988,2020-11-10,,Buenos Aires,AR,4.1,contractor,True
+839,NW-DAT-0839,Nebula-839,Data,Data Engineer,Lead,7158,2021-05-03,,Santiago,CL,4.8,contractor,True
+840,NW-SAL-0840,Nebula-840,Sales,Account Executive,Mid,3130,2021-10-15,,Santiago,CL,3.5,contractor,True
+841,NW-DAT-0841,Ryu,Data,Data Analyst,Senior,5946,2018-05-27,,Santiago,CL,4.7,full_time,True
+842,NW-HR-0842,Nebula-842,HR,HR Manager,Mid,3836,2016-06-25,,Bogotá,CO,3.7,contractor,True
+843,NW-FIN-0843,Nebula-843,Finance,Financial Analyst,Mid,3100,2024-07-28,,Santiago,CL,3.2,contractor,True
+844,NW-FIN-0844,Nebula-844,Finance,Financial Analyst,Senior,5025,2015-06-17,,Buenos Aires,AR,2.9,contractor,True
+845,NW-ENG-0845,Nebula-845,Engineering,Frontend Developer,Junior,2039,2025-02-11,,Lima,PE,4.3,full_time,True
+846,NW-ENG-0846,Vega,Engineering,Frontend Developer,Senior,5813,2014-03-18,,Santiago,CL,3.0,full_time,True
+847,NW-FIN-0847,Nebula-847,Finance,Financial Analyst,Senior,5580,2025-09-03,,Santiago,CL,3.7,contractor,True
+848,NW-ENG-0848,Loki,Engineering,Backend Developer,Lead,6602,2016-08-18,,Buenos Aires,AR,4.2,contractor,True
+849,NW-HR-0849,Nebula-849,HR,HR Generalist,Junior,2024,2018-06-13,,Montevideo,UY,5.0,contractor,True
+850,NW-ENG-0850,Athena,Engineering,Backend Developer,Junior,2229,2020-07-25,,Lima,PE,4.1,full_time,True
+851,NW-DAT-0851,Nebula-851,Data,Data Engineer,Mid,4058,2014-11-24,,Santiago,CL,3.2,full_time,True
+852,NW-HR-0852,Nebula-852,HR,HR Generalist,Junior,2556,2016-12-21,,Lima,PE,3.9,contractor,True
+853,NW-HR-0853,Nebula-853,HR,HR Manager,Senior,6205,2017-04-18,,Lima,PE,3.6,contractor,True
+854,NW-DAT-0854,Nebula-854,Data,Data Analyst,Mid,3857,2020-04-22,2023-06-11,Lima,PE,4.3,contractor,False
+855,NW-FIN-0855,Nebula-855,Finance,Financial Analyst,Senior,5174,2022-11-22,,Santiago,CL,4.6,full_time,True
+856,NW-HR-0856,Hera,HR,HR Generalist,Mid,3528,2017-07-05,,Montevideo,UY,3.1,contractor,True
+857,NW-FIN-0857,Apollo,Finance,Financial Analyst,Senior,6144,2016-10-07,2017-05-15,Bogotá,CO,2.8,contractor,False
+858,NW-HR-0858,Nebula-858,HR,HR Generalist,Mid,3463,2016-07-21,,Montevideo,UY,5.0,contractor,True
+859,NW-SAL-0859,Atlas,Sales,Sales Manager,Junior,2369,2018-08-27,,Montevideo,UY,4.0,full_time,True
+860,NW-SAL-0860,Nebula-860,Sales,Sales Manager,Lead,8370,2021-08-04,,Montevideo,UY,3.7,contractor,True
+861,NW-DAT-0861,Nebula-861,Data,Data Engineer,Junior,2176,2018-04-07,,Buenos Aires,AR,2.9,contractor,True
+862,NW-ENG-0862,Apollo,Engineering,Frontend Developer,Senior,6412,2019-01-23,,Lima,PE,3.7,contractor,True
+863,NW-DAT-0863,Nebula-863,Data,Data Engineer,Junior,2516,2025-11-15,,Montevideo,UY,4.4,contractor,True
+864,NW-ENG-0864,Vega,Engineering,Frontend Developer,Lead,7984,2017-06-30,,Santiago,CL,2.7,contractor,True
+865,NW-ENG-0865,Hera,Engineering,DevOps Engineer,Mid,3377,2020-01-30,,Buenos Aires,AR,3.7,contractor,True
+866,NW-FIN-0866,Nebula-866,Finance,Financial Analyst,Junior,2266,2022-07-25,,Montevideo,UY,3.7,full_time,True
+867,NW-DAT-0867,Nebula-867,Data,Data Analyst,Senior,4549,2014-05-28,,Buenos Aires,AR,3.8,contractor,True
+868,NW-FIN-0868,Nebula-868,Finance,Financial Analyst,Senior,5696,2020-01-22,2023-08-22,Montevideo,UY,3.2,contractor,False
+869,NW-HR-0869,Nebula-869,HR,HR Generalist,Senior,6415,2025-03-05,,Buenos Aires,AR,3.4,full_time,True
+870,NW-HR-0870,Hera,HR,HR Manager,Junior,2081,2016-01-23,,Bogotá,CO,4.4,contractor,True
+871,NW-ENG-0871,Nebula-871,Engineering,Frontend Developer,Mid,3491,2025-02-06,,Lima,PE,3.1,contractor,True
+872,NW-DAT-0872,Trinity,Data,Data Engineer,Mid,3874,2024-03-14,,Buenos Aires,AR,4.7,full_time,True
+873,NW-DAT-0873,Nebula-873,Data,Data Analyst,Lead,8398,2016-05-21,,Lima,PE,2.6,full_time,True
+874,NW-DAT-0874,Nebula-874,Data,Data Engineer,Senior,6136,2018-05-17,2020-07-27,Santiago,CL,3.4,full_time,False
+875,NW-SAL-0875,Ryu,Sales,Sales Manager,Lead,7212,2022-08-11,2026-09-28,Bogotá,CO,4.4,full_time,False
+876,NW-SAL-0876,Ryu,Sales,Account Executive,Lead,7403,2014-09-19,,Santiago,CL,3.8,full_time,True
+877,NW-DAT-0877,Nebula-877,Data,Data Analyst,Junior,1932,2020-10-19,,Lima,PE,3.1,full_time,True
+878,NW-HR-0878,Trinity,HR,HR Generalist,Junior,2548,2018-12-06,,Santiago,CL,4.6,contractor,True
+879,NW-DAT-0879,Trinity,Data,Data Analyst,Senior,6442,2019-05-17,,Montevideo,UY,3.9,contractor,True
+880,NW-ENG-0880,Athena,Engineering,Frontend Developer,Mid,4102,2018-12-18,,Montevideo,UY,4.9,full_time,True
+881,NW-HR-0881,Nebula-881,HR,HR Manager,Lead,6791,2015-04-10,2019-02-18,Santiago,CL,4.9,full_time,False
+882,NW-ENG-0882,Atlas,Engineering,Frontend Developer,Senior,5628,2017-06-13,,Montevideo,UY,4.8,full_time,True
+883,NW-ENG-0883,Nebula-883,Engineering,Frontend Developer,Junior,2289,2024-02-20,,Santiago,CL,4.5,full_time,True
+884,NW-ENG-0884,Nebula-884,Engineering,Frontend Developer,Lead,6805,2018-03-09,,Buenos Aires,AR,4.3,contractor,True
+885,NW-DAT-0885,Apollo,Data,Data Engineer,Junior,1922,2022-02-27,,Lima,PE,2.5,contractor,True
+886,NW-HR-0886,Nebula-886,HR,HR Manager,Senior,4700,2019-10-05,,Montevideo,UY,4.5,contractor,True
+887,NW-HR-0887,Ryu,HR,HR Generalist,Senior,5898,2020-01-13,,Montevideo,UY,3.7,contractor,True
+888,NW-DAT-0888,Atlas,Data,Data Analyst,Junior,2409,2017-03-07,,Montevideo,UY,3.5,contractor,True
+889,NW-FIN-0889,Apollo,Finance,Financial Analyst,Senior,5765,2014-09-21,,Bogotá,CO,3.7,full_time,True
+890,NW-SAL-0890,Nebula-890,Sales,Sales Manager,Mid,3464,2017-12-24,,Lima,PE,3.6,full_time,True
+891,NW-DAT-0891,Goku,Data,Data Analyst,Junior,2034,2019-06-01,,Montevideo,UY,4.0,full_time,True
+892,NW-SAL-0892,Trinity,Sales,Account Executive,Mid,3778,2016-06-12,,Montevideo,UY,3.1,contractor,True
+893,NW-SAL-0893,Athena,Sales,Sales Manager,Senior,5958,2022-06-22,,Lima,PE,4.3,full_time,True
+894,NW-FIN-0894,Vega,Finance,Financial Analyst,Senior,5419,2018-12-27,,Bogotá,CO,2.8,contractor,True
+895,NW-FIN-0895,Goku,Finance,Financial Analyst,Junior,1815,2022-03-31,,Lima,PE,3.3,contractor,True
+896,NW-SAL-0896,Nebula-896,Sales,Account Executive,Mid,3833,2015-04-24,,Montevideo,UY,4.1,full_time,True
+897,NW-SAL-0897,Neo,Sales,Sales Manager,Junior,2084,2025-11-09,,Montevideo,UY,4.5,full_time,True
+898,NW-FIN-0898,Goku,Finance,Financial Analyst,Senior,4760,2014-07-15,,Bogotá,CO,4.1,contractor,True
+899,NW-HR-0899,Nebula-899,HR,HR Manager,Lead,7284,2018-12-08,,Buenos Aires,AR,4.3,full_time,True
+900,NW-HR-0900,Hera,HR,HR Generalist,Lead,7379,2019-04-20,,Lima,PE,4.9,contractor,True
+901,NW-HR-0901,Ryu,HR,HR Manager,Lead,8129,2020-06-20,,Santiago,CL,3.5,contractor,True
+902,NW-FIN-0902,Nebula-902,Finance,Financial Analyst,Junior,2584,2023-01-24,,Montevideo,UY,3.0,contractor,True
+903,NW-ENG-0903,Vega,Engineering,Frontend Developer,Mid,3174,2019-10-24,,Buenos Aires,AR,2.9,full_time,True
+904,NW-ENG-0904,Loki,Engineering,DevOps Engineer,Mid,3782,2016-07-16,,Buenos Aires,AR,3.8,contractor,True
+905,NW-HR-0905,Nebula-905,HR,HR Manager,Senior,5593,2018-12-22,,Santiago,CL,3.2,full_time,True
+906,NW-HR-0906,Atlas,HR,HR Generalist,Junior,2394,2020-10-28,,Bogotá,CO,4.4,contractor,True
+907,NW-DAT-0907,Trinity,Data,Data Engineer,Junior,2598,2024-12-27,2028-01-07,Montevideo,UY,3.3,contractor,False
+908,NW-FIN-0908,Goku,Finance,Financial Analyst,Lead,7727,2015-05-23,,Buenos Aires,AR,3.5,full_time,True
+909,NW-SAL-0909,Nebula-909,Sales,Account Executive,Lead,8286,2019-10-16,,Buenos Aires,AR,2.8,full_time,True
+910,NW-SAL-0910,Nebula-910,Sales,Sales Manager,Lead,7995,2022-05-06,,Bogotá,CO,4.4,full_time,True
+911,NW-ENG-0911,Loki,Engineering,DevOps Engineer,Mid,3459,2022-05-31,2025-12-07,Santiago,CL,4.0,contractor,False
+912,NW-HR-0912,Nebula-912,HR,HR Manager,Mid,3506,2018-10-31,2022-08-07,Montevideo,UY,3.4,full_time,False
+913,NW-FIN-0913,Vega,Finance,Financial Analyst,Lead,7462,2024-03-15,,Montevideo,UY,4.9,full_time,True
+914,NW-FIN-0914,Nebula-914,Finance,Financial Analyst,Lead,7266,2016-05-21,,Santiago,CL,3.9,full_time,True
+915,NW-HR-0915,Vega,HR,HR Manager,Junior,2069,2024-07-04,,Montevideo,UY,4.2,full_time,True
+916,NW-ENG-0916,Apollo,Engineering,Frontend Developer,Senior,6471,2022-08-12,,Lima,PE,4.3,contractor,True
+917,NW-ENG-0917,Neo,Engineering,DevOps Engineer,Senior,4787,2024-12-19,,Bogotá,CO,4.9,contractor,True
+918,NW-SAL-0918,Nebula-918,Sales,Account Executive,Lead,6810,2021-12-12,,Lima,PE,2.6,full_time,True
+919,NW-DAT-0919,Nebula-919,Data,Data Analyst,Junior,2529,2025-06-06,,Lima,PE,3.0,full_time,True
+920,NW-SAL-0920,Hera,Sales,Sales Manager,Mid,3904,2021-11-02,,Santiago,CL,4.2,contractor,True
+921,NW-SAL-0921,Athena,Sales,Account Executive,Mid,2915,2018-10-23,,Lima,PE,4.8,contractor,True
+922,NW-FIN-0922,Athena,Finance,Financial Analyst,Senior,4954,2023-08-13,,Buenos Aires,AR,4.0,contractor,True
+923,NW-HR-0923,Nebula-923,HR,HR Manager,Mid,4042,2014-02-05,,Montevideo,UY,4.7,full_time,True
+924,NW-FIN-0924,Nebula-924,Finance,Financial Analyst,Mid,4049,2020-11-09,,Buenos Aires,AR,4.9,contractor,True
+925,NW-ENG-0925,Loki,Engineering,DevOps Engineer,Junior,1919,2017-01-24,,Santiago,CL,5.0,contractor,True
+926,NW-HR-0926,Nebula-926,HR,HR Manager,Senior,4651,2019-12-22,,Montevideo,UY,4.8,contractor,True
+927,NW-FIN-0927,Hera,Finance,Financial Analyst,Lead,7280,2019-06-17,,Bogotá,CO,4.7,contractor,True
+928,NW-HR-0928,Athena,HR,HR Manager,Lead,6878,2019-01-27,2022-04-05,Montevideo,UY,4.3,full_time,False
+929,NW-HR-0929,Ryu,HR,HR Generalist,Senior,5541,2023-01-04,,Bogotá,CO,2.7,contractor,True
+930,NW-HR-0930,Nebula-930,HR,HR Manager,Senior,6292,2024-02-15,,Santiago,CL,3.9,contractor,True
+931,NW-HR-0931,Loki,HR,HR Generalist,Senior,6008,2025-03-28,2031-07-02,Santiago,CL,4.0,full_time,False
+932,NW-SAL-0932,Nebula-932,Sales,Sales Manager,Junior,1981,2016-07-07,,Bogotá,CO,4.0,contractor,True
+933,NW-DAT-0933,Loki,Data,Data Engineer,Lead,6545,2022-01-30,2023-02-04,Buenos Aires,AR,3.4,full_time,False
+934,NW-ENG-0934,Nebula-934,Engineering,Backend Developer,Junior,2027,2014-10-23,,Lima,PE,2.7,contractor,True
+935,NW-DAT-0935,Nebula-935,Data,Data Analyst,Mid,2912,2024-02-24,,Lima,PE,4.7,full_time,True
+936,NW-FIN-0936,Nebula-936,Finance,Financial Analyst,Junior,1913,2016-02-16,,Lima,PE,3.7,contractor,True
+937,NW-ENG-0937,Nebula-937,Engineering,Frontend Developer,Junior,2303,2015-09-05,,Bogotá,CO,2.7,contractor,True
+938,NW-DAT-0938,Ryu,Data,Data Analyst,Lead,7622,2018-11-14,,Bogotá,CO,3.5,full_time,True
+939,NW-DAT-0939,Nebula-939,Data,Data Analyst,Lead,7053,2019-04-01,,Santiago,CL,3.9,full_time,True
+940,NW-SAL-0940,Nebula-940,Sales,Sales Manager,Mid,3905,2017-02-28,,Lima,PE,3.1,full_time,True
+941,NW-HR-0941,Athena,HR,HR Manager,Mid,2828,2024-05-16,,Santiago,CL,4.2,full_time,True
+942,NW-SAL-0942,Nebula-942,Sales,Sales Manager,Lead,7171,2024-01-15,,Santiago,CL,3.5,full_time,True
+943,NW-SAL-0943,Nebula-943,Sales,Account Executive,Junior,2400,2018-07-22,,Lima,PE,4.3,contractor,True
+944,NW-SAL-0944,Nebula-944,Sales,Account Executive,Junior,2544,2014-05-31,2019-03-22,Montevideo,UY,3.0,full_time,False
+945,NW-ENG-0945,Vega,Engineering,DevOps Engineer,Junior,2048,2016-05-19,,Santiago,CL,3.9,full_time,True
+946,NW-DAT-0946,Trinity,Data,Data Engineer,Junior,2569,2014-10-24,2020-02-22,Lima,PE,4.7,full_time,False
+947,NW-ENG-0947,Athena,Engineering,Backend Developer,Senior,6362,2026-02-16,,Bogotá,CO,4.4,full_time,True
+948,NW-DAT-0948,Nebula-948,Data,Data Analyst,Mid,3296,2019-04-05,,Bogotá,CO,4.5,contractor,True
+949,NW-ENG-0949,Nebula-949,Engineering,Frontend Developer,Lead,7387,2025-12-16,,Montevideo,UY,4.9,contractor,True
+950,NW-FIN-0950,Nebula-950,Finance,Financial Analyst,Mid,3803,2022-08-11,,Bogotá,CO,4.7,full_time,True
+951,NW-ENG-0951,Nebula-951,Engineering,Backend Developer,Junior,2450,2020-11-26,2025-10-27,Lima,PE,4.9,contractor,False
+952,NW-HR-0952,Nebula-952,HR,HR Manager,Junior,1831,2020-01-08,,Buenos Aires,AR,3.3,contractor,True
+953,NW-FIN-0953,Goku,Finance,Financial Analyst,Mid,2998,2025-04-06,2028-11-13,Santiago,CL,3.7,full_time,False
+954,NW-ENG-0954,Hera,Engineering,DevOps Engineer,Junior,2188,2021-02-03,,Montevideo,UY,4.1,contractor,True
+955,NW-ENG-0955,Atlas,Engineering,DevOps Engineer,Senior,5411,2022-02-25,,Montevideo,UY,3.9,contractor,True
+956,NW-DAT-0956,Nebula-956,Data,Data Analyst,Mid,2985,2015-08-14,,Santiago,CL,4.5,full_time,True
+957,NW-SAL-0957,Athena,Sales,Sales Manager,Junior,2331,2014-09-20,,Lima,PE,3.8,contractor,True
+958,NW-HR-0958,Athena,HR,HR Generalist,Mid,2982,2024-12-16,,Bogotá,CO,4.8,contractor,True
+959,NW-FIN-0959,Vega,Finance,Financial Analyst,Junior,2161,2024-03-08,,Montevideo,UY,2.8,full_time,True
+960,NW-ENG-0960,Loki,Engineering,Frontend Developer,Lead,6606,2014-06-26,2016-10-10,Lima,PE,3.3,full_time,False
+961,NW-ENG-0961,Nebula-961,Engineering,DevOps Engineer,Senior,5127,2021-07-19,,Lima,PE,3.2,full_time,True
+962,NW-FIN-0962,Athena,Finance,Financial Analyst,Junior,2414,2019-10-06,2021-09-14,Bogotá,CO,3.1,full_time,False
+963,NW-ENG-0963,Nebula-963,Engineering,Backend Developer,Junior,1929,2024-07-28,,Bogotá,CO,5.0,contractor,True
+964,NW-FIN-0964,Apollo,Finance,Financial Analyst,Senior,5230,2021-06-08,,Buenos Aires,AR,2.6,full_time,True
+965,NW-ENG-0965,Athena,Engineering,Backend Developer,Senior,5292,2021-07-04,,Montevideo,UY,2.9,contractor,True
+966,NW-SAL-0966,Athena,Sales,Sales Manager,Senior,5855,2015-12-18,,Montevideo,UY,3.4,full_time,True
+967,NW-HR-0967,Nebula-967,HR,HR Manager,Mid,3343,2015-10-12,,Buenos Aires,AR,3.9,full_time,True
+968,NW-FIN-0968,Nebula-968,Finance,Financial Analyst,Mid,2827,2015-04-04,,Bogotá,CO,3.6,contractor,True
+969,NW-FIN-0969,Nebula-969,Finance,Financial Analyst,Senior,4850,2018-11-07,2023-10-25,Montevideo,UY,3.5,contractor,False
+970,NW-DAT-0970,Nebula-970,Data,Data Engineer,Junior,2120,2022-04-07,,Lima,PE,3.1,contractor,True
+971,NW-DAT-0971,Nebula-971,Data,Data Analyst,Mid,3228,2023-06-16,,Bogotá,CO,2.7,contractor,True
+972,NW-FIN-0972,Nebula-972,Finance,Financial Analyst,Senior,5600,2020-04-28,,Buenos Aires,AR,4.7,contractor,True
+973,NW-HR-0973,Vega,HR,HR Manager,Senior,5669,2017-03-21,,Santiago,CL,4.3,contractor,True
+974,NW-DAT-0974,Nebula-974,Data,Data Analyst,Mid,4087,2024-06-04,,Bogotá,CO,4.4,full_time,True
+975,NW-ENG-0975,Loki,Engineering,Backend Developer,Mid,3755,2016-12-05,,Bogotá,CO,2.5,contractor,True
+976,NW-DAT-0976,Ryu,Data,Data Analyst,Lead,7484,2018-02-13,,Montevideo,UY,3.7,contractor,True
+977,NW-ENG-0977,Athena,Engineering,DevOps Engineer,Mid,3598,2014-01-23,2017-02-12,Lima,PE,3.6,contractor,False
+978,NW-ENG-0978,Atlas,Engineering,DevOps Engineer,Mid,3339,2015-07-27,2021-10-14,Montevideo,UY,3.2,full_time,False
+979,NW-SAL-0979,Nebula-979,Sales,Sales Manager,Mid,3769,2015-09-21,,Santiago,CL,2.6,full_time,True
+980,NW-HR-0980,Loki,HR,HR Manager,Lead,6580,2018-09-26,,Lima,PE,4.1,contractor,True
+981,NW-ENG-0981,Nebula-981,Engineering,DevOps Engineer,Lead,8283,2022-11-10,,Santiago,CL,2.5,contractor,True
+982,NW-SAL-0982,Hera,Sales,Sales Manager,Lead,7348,2017-06-23,,Lima,PE,3.6,full_time,True
+983,NW-HR-0983,Nebula-983,HR,HR Generalist,Mid,4004,2025-01-25,,Buenos Aires,AR,3.7,contractor,True
+984,NW-DAT-0984,Nebula-984,Data,Data Engineer,Mid,3089,2024-10-19,,Bogotá,CO,3.9,contractor,True
+985,NW-DAT-0985,Neo,Data,Data Analyst,Mid,3951,2015-05-29,,Lima,PE,4.1,contractor,True
+986,NW-DAT-0986,Nebula-986,Data,Data Engineer,Junior,2025,2019-12-31,,Bogotá,CO,2.5,full_time,True
+987,NW-SAL-0987,Nebula-987,Sales,Account Executive,Lead,7077,2022-09-15,,Bogotá,CO,3.7,full_time,True
+988,NW-ENG-0988,Apollo,Engineering,DevOps Engineer,Senior,5884,2025-01-23,,Santiago,CL,4.9,full_time,True
+989,NW-FIN-0989,Apollo,Finance,Financial Analyst,Senior,5881,2017-12-01,,Buenos Aires,AR,4.3,contractor,True
+990,NW-HR-0990,Nebula-990,HR,HR Manager,Senior,6233,2015-07-27,2016-01-24,Montevideo,UY,2.7,contractor,False
+991,NW-ENG-0991,Nebula-991,Engineering,Backend Developer,Junior,1826,2019-12-08,,Lima,PE,4.0,contractor,True
+992,NW-SAL-0992,Nebula-992,Sales,Sales Manager,Junior,1806,2018-07-17,,Montevideo,UY,3.5,full_time,True
+993,NW-SAL-0993,Hera,Sales,Sales Manager,Senior,6216,2024-09-11,,Lima,PE,4.8,full_time,True
+994,NW-ENG-0994,Nebula-994,Engineering,Backend Developer,Junior,2072,2025-11-23,,Buenos Aires,AR,3.6,contractor,True
+995,NW-DAT-0995,Neo,Data,Data Engineer,Lead,7746,2017-09-03,2019-05-21,Buenos Aires,AR,4.6,contractor,False
+996,NW-FIN-0996,Nebula-996,Finance,Financial Analyst,Lead,7782,2015-03-27,2018-08-30,Montevideo,UY,4.7,full_time,False
+997,NW-DAT-0997,Nebula-997,Data,Data Analyst,Junior,1996,2021-12-25,,Santiago,CL,4.0,contractor,True
+998,NW-DAT-0998,Nebula-998,Data,Data Engineer,Senior,4917,2014-01-02,2019-11-21,Santiago,CL,4.4,full_time,False
+999,NW-ENG-0999,Nebula-999,Engineering,Frontend Developer,Junior,2361,2025-05-03,,Montevideo,UY,4.8,contractor,True
+1000,NW-SAL-1000,Nebula-1000,Sales,Sales Manager,Senior,5217,2021-09-08,,Montevideo,UY,3.8,contractor,True
