@@ -4,6 +4,8 @@ A small REST API that serves a synthetic HR dataset (1,000 fictional employees) 
 
 **Stack:** Python · FastAPI · pandas · Faker · Uvicorn
 
+> **Note:** this is a personal side project, built to practice how data is generated, served and filtered through an API, as groundwork for building visual dashboards on top of it. It is not actively maintained.
+
 > All data is randomly generated. No real people or companies are involved.
 
 ## Project structure
